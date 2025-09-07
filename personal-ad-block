@@ -1,4 +1,3 @@
-
 host-wildcard, *.adx.*, reject
 host-wildcard, *.ads.*, reject
 host-wildcard, *.ad.*, reject
