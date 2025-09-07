@@ -55,3 +55,11 @@ host-suffix, daimophoogree.net, reject
 host-wildcard, *.yofijoy.*, reject
 host-wildcard, *.rtbasia.*, reject
 host-wildcard, *.atm.youku.com, reject
+host-suffix, sdk.open.talk.igexin.com, reject
+host-suffix, baichuan-sdk.taobao.com, reject
+host-suffix, baichuan-sdk.alicdn.com, reject
+host-wildcard, *.miaozhen.*, reject
+host-wildcard, *.uve.weibo.com, reject
+host-wildcard, *.biz.weibo.com, reject
+host-wildcard, *.ads-twitter.*, reject
+host-wildcard, *.aligames.*, reject
