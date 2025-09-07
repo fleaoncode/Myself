@@ -99,3 +99,8 @@ host-suffix, adashxgc.ut.taobao.com, reject
 host-wildcard, *.pangolin-sdk-toutiao.com, reject
 host-wildcard, *.pangolin-sdk-toutiao1.com, reject
 host-wildcard, *.fenqile.*, reject
+host-wildcard, *.im.weibo.cn, reject
+host-wildcard, *.bugly.qq.com, reject
+host-wildcard, *.pglstatp-toutiao.com, reject
+host-wildcard, *.wldmarket.com, reject
+host-wildcard, stripchat.*, reject
