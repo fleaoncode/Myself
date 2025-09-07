@@ -1,0 +1,9 @@
+host, dark-holic.co.kr, reject
+host-wildcard, *.appsflyersdk.com, reject
+host-wildcard, *.appsflyer.*, reject
+host-wildcard, *.naver.com, reject
+host-wildcard, *.naver.net, reject
+host-suffix, www.facebook.com, reject
+host-wildcard, *.nate.com, reject
+host-wildcard, *.doubleclick.net, reject
+host-wildcard, *.meba.kr, reject
