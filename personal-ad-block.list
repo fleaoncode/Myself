@@ -94,3 +94,8 @@ host-wildcard, *.ptgncdn.*, reject
 host-suffix, go.rmhfrtnd.com, reject
 host-suffix, go.xliirdr.com, reject
 host-wildcard, *.adtng.*, reject
+host-suffix, adashbc.ut.taobao.com, reject
+host-suffix, adashxgc.ut.taobao.com, reject
+host-wildcard, *.pangolin-sdk-toutiao.com, reject
+host-wildcard, *.pangolin-sdk-toutiao1.com, reject
+host-wildcard, *.fenqile.*, reject
