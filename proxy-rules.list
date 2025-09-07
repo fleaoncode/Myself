@@ -16,3 +16,4 @@ host-wildcard, *.max-c.com, proxy
 host-wildcard, *.deepseek.com, proxy
 host-wildcard, *.cdn-apple.*, proxy
 host-wildcard, *.mzstatic.*, proxy
+host-wildcard, *.googleoptimize.*, proxy
