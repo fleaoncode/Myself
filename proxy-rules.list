@@ -3,8 +3,8 @@ host-wildcard, *.reddit.*, proxy
 host-suffix, twimg.com, proxy
 host-suffix, ocsp.pki.goog, proxy
 host-wildcard, *.steampowered.*, proxy
-host-wildcard, *.gstatic.com, proxy
-host-wildcard, *.googleapis.com, proxy
+host-suffix, *.gstatic.com, proxy
+host-suffix, *.googleapis.com, proxy
 host-wildcard, *.googletagmanager.*, proxy
 host-wildcard, *.google-analytics.*, proxy
 host-wildcard, *.googlevideo.*, proxy
@@ -12,8 +12,8 @@ host-wildcard, *.google.*, proxy
 host-wildcard, *.googleapis.*, proxy
 host-suffix, www.recaptcha.net, proxy
 host-suffix, o.pki.goog, proxy
-host-wildcard, *.max-c.com, proxy
-host-wildcard, *.deepseek.com, proxy
+host-suffix, *.max-c.com, proxy
+host-suffix, *.deepseek.com, proxy
 host-wildcard, *.cdn-apple.*, proxy
 host-wildcard, *.mzstatic.*, proxy
 host-wildcard, *.googleoptimize.*, proxy
