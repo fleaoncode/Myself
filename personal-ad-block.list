@@ -57,7 +57,7 @@ host-suffix, atm.youku.com, reject
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host-suffix, baichuan-sdk.alicdn.com, reject
-host-wildcard, *.miaozhen.*, reject
+host-suffix, miaozhen.com, reject
 host-suffix, uve.weibo.com, reject
 host-suffix, biz.weibo.com, reject
 host-suffix, ads-twitter.com, reject
