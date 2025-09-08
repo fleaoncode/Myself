@@ -1,4 +1,4 @@
-host, dark-holic.co.kr, reject
+host-suffix, dark-holic.co.kr, reject
 host-suffix, appsflyersdk.com, reject
 host-suffix, appsflyer.com, reject
 host-suffix, naver.com, reject
