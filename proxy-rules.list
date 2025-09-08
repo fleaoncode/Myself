@@ -3,8 +3,8 @@ host-wildcard, *.reddit.*, proxy
 host-suffix, twimg.com, proxy
 host-suffix, ocsp.pki.goog, proxy
 host-wildcard, *.steampowered.*, proxy
-host-suffix, *.gstatic.com, proxy
-host-suffix, *.googleapis.com, proxy
+host-suffix, gstatic.com, proxy
+host-suffix, googleapis.com, proxy
 host-wildcard, *.googletagmanager.*, proxy
 host-wildcard, *.google-analytics.*, proxy
 host-wildcard, *.googlevideo.*, proxy
