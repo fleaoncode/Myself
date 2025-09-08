@@ -20,3 +20,4 @@ host-wildcard, *.googleoptimize.*, proxy
 host-suffix, icloud.com, proxy
 host-suffix, gs-loc.apple.com, direct
 host-suffix, apple.com, proxy
+host, iosapps.itunes.apple.com, direct
