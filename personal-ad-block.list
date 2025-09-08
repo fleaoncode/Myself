@@ -2,8 +2,8 @@ host-wildcard, *.adx.*, reject
 host-wildcard, *.ads.*, reject
 host-wildcard, *.ad.*, reject
 host-suffix, sealine.youku.com, reject
-host-suffix, .gdt.qq.com, reject
-host-suffix, .e.qq.com, reject
+host-wildcard, *.gdt.qq.com, reject
+host-wildcard, *.e.qq.com, reject
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
 host-wildcard, *.hubcloud.com.*, reject
