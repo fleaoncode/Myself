@@ -12,8 +12,8 @@ host-wildcard, *.google.*, proxy
 host-wildcard, *.googleapis.*, proxy
 host-suffix, www.recaptcha.net, proxy
 host-suffix, o.pki.goog, proxy
-host-suffix, *.max-c.com, proxy
-host-suffix, *.deepseek.com, proxy
+host-suffix, max-c.com, proxy
+host-suffix, deepseek.com, proxy
 host-wildcard, *.cdn-apple.*, proxy
 host-wildcard, *.mzstatic.*, proxy
 host-wildcard, *.googleoptimize.*, proxy
