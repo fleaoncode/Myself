@@ -10,8 +10,8 @@ host-wildcard, *.hubcloud.com.*, reject
 host-wildcard, *.effirst.*, reject
 host-wildcard, *.tanx.*, reject
 host-suffix, ads.serving-sys.cn, reject
-host-wildcard, *.umengcloud.*, reject
-host-wildcard, *.umeng.*, reject
+host-suffix, umengcloud.com, reject
+host-suffix, umeng.com, reject
 host-wildcard, *.exdynsrv.*, reject
 host-wildcard, *.realsrv.*, reject
 host-wildcard, *.amplitude.*, reject
