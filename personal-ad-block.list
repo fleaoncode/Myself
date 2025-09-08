@@ -127,3 +127,11 @@ host-wildcard, *.inkuai.*, reject
 host-suffix, uyunad.com, reject
 host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
+host-suffix, mobads.baidu.com, reject
+host-suffix, adukwai.com, reject
+host-suffix, gifshow.com, reject
+host-suffix, go2yd.com, reject
+host-suffix, ubixioe.com, reject
+host-suffix, anythinktech.com, reject
+host-suffix, open.e.kuaishou.com, reject
