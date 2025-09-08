@@ -12,9 +12,9 @@ host-wildcard, *.tanx.*, reject
 host-suffix, ads.serving-sys.cn, reject
 host-suffix, umengcloud.com, reject
 host-suffix, umeng.com, reject
-host-wildcard, *.exdynsrv.*, reject
-host-wildcard, *.realsrv.*, reject
-host-wildcard, *.amplitude.*, reject
+host-suffix, exdynsrv.com, reject
+host-suffix, realsrv.com, reject
+host-suffix, amplitude.com, reject
 host-wildcard, *.volceapplog.*, reject
 host-suffix, shark-tracer.netease.com, reject
 host-wildcard, *.toast.*, reject
