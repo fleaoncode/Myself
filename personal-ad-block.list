@@ -137,3 +137,7 @@ host-suffix, anythinktech.com, reject
 host-suffix, open.e.kuaishou.com, reject
 host-suffix, cloudfront.net, reject
 host-suffix, mobon.net, reject
+host-suffix, adprod.cn, reject
+host-suffix, feedsads.cn, reject
+host-suffix, ems.youku.com, reject
+host-suffix, adn-plus.com.cn, reject
