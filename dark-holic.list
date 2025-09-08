@@ -1,5 +1,5 @@
 host, dark-holic.co.kr, reject
-host-wildcard, *.appsflyersdk.com, reject
+host-suffix, appsflyersdk.com, reject
 host-wildcard, *.appsflyer.*, reject
 host-suffix, *.naver.com, reject
 host-suffix, *.naver.net, reject
