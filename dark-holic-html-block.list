@@ -1,6 +1,6 @@
 host, dark-holic.co.kr, reject
 host-suffix, appsflyersdk.com, reject
-host-wildcard, *.appsflyer.*, reject
+host-suffix, appsflyer.com, reject
 host-suffix, naver.com, reject
 host-suffix, naver.net, reject
 host, www.facebook.com, reject
