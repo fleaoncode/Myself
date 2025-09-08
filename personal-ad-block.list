@@ -5,10 +5,10 @@ host-suffix, sealine.youku.com, reject
 host-suffix, *.gdt.qq.com, reject
 host-suffix, *.e.qq.com, reject
 host-suffix, beizi.biz, reject
-host-wildcard, *.adbiding.*, reject
+host-suffix, adbiding.com, reject
 host-wildcard, *.hubcloud.com.*, reject
-host-wildcard, *.effirst.*, reject
-host-wildcard, *.tanx.*, reject
+host-suffix, effirst.com, reject
+host-suffix, tanx.com, reject
 host-suffix, ads.serving-sys.cn, reject
 host-suffix, umengcloud.com, reject
 host-suffix, umeng.com, reject
