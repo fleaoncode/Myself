@@ -190,3 +190,8 @@ host-suffix, cloud-config-service.rtc.aliyuncs.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com, reject
+host, dinamicx.alibabausercontent.com, reject
+host, ltao-app.cn-shanghai.dualstack.log.aliyuncs.com, reject
+host-suffix, cos.ap-shanghai.myqcloud.com, reject
+host-suffix, ad.12306.cn, reject
+host-suffix, pangolin-sdk-toutiao-b.com, reject
