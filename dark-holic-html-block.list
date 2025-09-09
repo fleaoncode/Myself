@@ -1,9 +1,5 @@
 host-suffix, dark-holic.co.kr, reject
-host-suffix, appsflyersdk.com, reject
-host-suffix, appsflyer.com, reject
 host-suffix, naver.com, reject
 host-suffix, naver.net, reject
 host, www.facebook.com, reject
 host-suffix, nate.com, reject
-host-suffix, doubleclick.net, reject
-host-suffix, meba.kr, reject
