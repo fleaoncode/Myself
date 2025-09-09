@@ -178,3 +178,8 @@ host-suffix, appsflyer.com, reject
 host-suffix, qchannel01.cn, reject
 host-suffix, qchannel02.cn, reject
 host-suffix, qchannel03.cn, reject
+host-suffix, amdc-sibling.alipay.com.cn, reject
+host-suffix, abtest.alibaba.com, reject
+host-suffix, amdc.alipay.com, reject
+host-suffix, atoken.m.taobao.com, reject
+
