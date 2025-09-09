@@ -182,4 +182,6 @@ host-suffix, amdc-sibling.alipay.com.cn, reject
 host-suffix, abtest.alibaba.com, reject
 host-suffix, amdc.alipay.com, reject
 host-suffix, atoken.m.taobao.com, reject
-
+host-suffix, aliapp.org, reject
+host-suffix, mum.alibabachengdun.com, reject
+host-suffix, applog.uc.cn, reject
