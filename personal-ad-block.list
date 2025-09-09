@@ -171,3 +171,4 @@ host-suffix, saawsedge.com, reject
 host-suffix, doppiocdn.com, reject
 host-suffix, loggw-ex.alipay.com, reject
 host-suffix, loggw.alipay.com, reject
+host-suffix, doubleclick.net, reject
