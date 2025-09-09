@@ -172,3 +172,6 @@ host-suffix, doppiocdn.com, reject
 host-suffix, loggw-ex.alipay.com, reject
 host-suffix, loggw.alipay.com, reject
 host-suffix, doubleclick.net, reject
+host-suffix, meba.kr, reject
+host-suffix, appsflyersdk.com, reject
+host-suffix, appsflyer.com, reject
