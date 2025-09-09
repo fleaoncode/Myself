@@ -175,3 +175,6 @@ host-suffix, doubleclick.net, reject
 host-suffix, meba.kr, reject
 host-suffix, appsflyersdk.com, reject
 host-suffix, appsflyer.com, reject
+host-suffix, qchannel01.cn, reject
+host-suffix, qchannel02.cn, reject
+host-suffix, qchannel03.cn, reject
