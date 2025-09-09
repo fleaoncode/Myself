@@ -185,3 +185,8 @@ host-suffix, atoken.m.taobao.com, reject
 host-suffix, aliapp.org, reject
 host-suffix, mum.alibabachengdun.com, reject
 host-suffix, applog.uc.cn, reject
+host-suffix, mazu.m.qq.com, reject
+host-suffix, cloud-config-service.rtc.aliyuncs.com, reject
+host-suffix, alilang-intranet.alibaba-inc.com, reject
+host-suffix, dypnsapi.aliyuncs.com, reject
+host-suffix, alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com, reject
