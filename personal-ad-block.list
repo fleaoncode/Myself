@@ -195,3 +195,10 @@ host, ltao-app.cn-shanghai.dualstack.log.aliyuncs.com, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
+host, ads-i4.xhscdn.com, reject
+host, ads-i3.xhscdn.com, reject
+host, ads-i2.xhscdn.com, reject
+host, ads-i1.xhscdn.com, reject
+host, ads-monitoring.papegames.com, reject
+host, sdk-log.partner.sm.cn, reject
+host, ltao-user-growth-internet.cn-wulanchabu.dualstack.log.aliyuncs.com, reject
