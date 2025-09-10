@@ -183,7 +183,7 @@ host-suffix, abtest.alibaba.com, reject
 host-suffix, amdc.alipay.com, reject
 host-suffix, atoken.m.taobao.com, reject
 host-suffix, aliapp.org, reject
-host-suffix, mum.alibabachengdun.com, reject
+host-suffix, alibabachengdun.com, reject
 host-suffix, applog.uc.cn, reject
 host-suffix, mazu.m.qq.com, reject
 host-suffix, cloud-config-service.rtc.aliyuncs.com, reject
@@ -202,3 +202,6 @@ host, ads-i1.xhscdn.com, reject
 host, ads-monitoring.papegames.com, reject
 host, sdk-log.partner.sm.cn, reject
 host, ltao-user-growth-internet.cn-wulanchabu.dualstack.log.aliyuncs.com, reject
+host-suffix, toponadss.com, reject
+host-suffix, ad-scope.com.cn, reject
+host-suffix, alibabachengdun.net, reject
