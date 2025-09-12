@@ -204,7 +204,7 @@ host, sdk-log.partner.sm.cn, reject
 host, ltao-user-growth-internet.cn-wulanchabu.dualstack.log.aliyuncs.com, reject
 host-suffix, toponadss.com, reject
 host-suffix, ad-scope.com.cn, reject
-host-suffix, alibabachengdun.net, 
+host-suffix, alibabachengdun.net, reject
 host-suffix, adgw.alipay.com, reject
 host-suffix, huichuan.sm.cn, reject
 host, applog-perf.uc.cn, reject
