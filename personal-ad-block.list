@@ -206,4 +206,8 @@ host-suffix, toponadss.com, reject
 host-suffix, ad-scope.com.cn, reject
 host-suffix, alibabachengdun.net, 
 host-suffix, adgw.alipay.com, reject
+host-suffix, huichuan.sm.cn, reject
+host, applog-perf.uc.cn, reject
+host, mobads-logs.baidu.com, reject
+host, vpp-license-proxy.aliyuncs.com, reject
 
