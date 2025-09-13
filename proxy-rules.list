@@ -1,3 +1,7 @@
+host-suffix, bilibili.com, direct
+host-suffix, biliapi.com, direct
+host-suffix, bilivideo.com, direct
+host-suffix, huami-firmware-cdn.huami.com, reject
 host-wildcard, *.facebook.*, proxy
 host-wildcard, *.reddit.*, proxy
 host-suffix, twimg.com, proxy
