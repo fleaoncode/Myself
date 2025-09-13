@@ -217,4 +217,4 @@ host, impaas-for-client.cn-shanghai.log.aliyuncs.com, reject
 host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host, open.kuaishouzt.com, reject
-
+host-suffix, -adscore-api.biligame.net, reject
