@@ -223,4 +223,7 @@ host, tiga-release-dc.m.taobao.com, reject
 host, applogios.uc.cn, reject
 host, dsp-x.jd.com, reject
 host, gw.alicdn.com, reject
+host-suffix, adtrafficquality.google, reject
+host, orange-dc.m.taobao.com, reject
+host, guide-acs.m.taobao.com, reject
 
