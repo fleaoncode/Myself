@@ -215,4 +215,5 @@ host-suffix, skynet.bilivideo.com, reject
 host, g.us.sinaimg.cn, reject
 host, impaas-for-client.cn-shanghai.log.aliyuncs.com, reject
 host, ad.cyapi.cn, reject
+host, ads-api.twitter.com, reject
 
