@@ -218,3 +218,8 @@ host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host, open.kuaishouzt.com, reject
 host-suffix, -adscore-api.biligame.net, reject
+host, client-upload.cn-shanghai.log.aliyuncs.com, reject
+host, tiga-release-dc.m.taobao.com, reject
+host, applogios.uc.cn, reject
+host, dsp-x.jd.com, reject
+
