@@ -228,4 +228,5 @@ host, orange-dc.m.taobao.com, reject
 host, guide-acs.m.taobao.com, reject
 host, msgacs.m.taobao.com, reject
 host, hw-edge.biliapi.net, reject
+host, nvs.im.tencent.cn, reject
 
