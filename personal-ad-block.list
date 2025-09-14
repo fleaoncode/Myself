@@ -191,7 +191,7 @@ host-suffix, alilang-intranet.alibaba-inc.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com, reject
 host, dinamicx.alibabausercontent.com, reject
-host, ltao-app.cn-shanghai.dualstack.log.aliyuncs.com, reject
+host-suffix, cn-shanghai.dualstack.log.aliyuncs.com, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
@@ -213,12 +213,11 @@ host, vpp-license-proxy.aliyuncs.com, reject
 host-suffix, mobilegw.alipay.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, g.us.sinaimg.cn, reject
-host, impaas-for-client.cn-shanghai.log.aliyuncs.com, reject
+host-suffix, cn-shanghai.log.aliyuncs.com, reject
 host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host, open.kuaishouzt.com, reject
 host-suffix, -adscore-api.biligame.net, reject
-host, client-upload.cn-shanghai.log.aliyuncs.com, reject
 host, tiga-release-dc.m.taobao.com, reject
 host, applogios.uc.cn, reject
 host, dsp-x.jd.com, reject
