@@ -210,7 +210,6 @@ host-suffix, huichuan.sm.cn, reject
 host, applog-perf.uc.cn, reject
 host, mobads-logs.baidu.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
--host-suffix, mobilegw.alipay.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, g.us.sinaimg.cn, reject
 host-suffix, cn-shanghai.log.aliyuncs.com, reject
