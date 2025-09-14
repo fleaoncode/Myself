@@ -233,3 +233,5 @@ host-suffix, pandora.xiaomi.com, reject
 host, imgopen.xmcdn.com, reject
 host-suffix, v.mitvos.com, reject
 host, tracking.intl.miui.com, reject
+host, dev.g.alicdn.com, reject
+
