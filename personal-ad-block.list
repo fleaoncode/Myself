@@ -6,7 +6,7 @@ host-wildcard, *.gdt.qq.com, reject
 host-wildcard, *.e.qq.com, reject
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
-host-wildcard, *.hubcloud.com.*, reject
+host-suffix, hubcloud.com.com, reject
 host-suffix, effirst.com, reject
 host-suffix, tanx.com, reject
 host-suffix, ads.serving-sys.cn, reject
@@ -15,7 +15,7 @@ host-suffix, umeng.com, reject
 host-suffix, exdynsrv.com, reject
 host-suffix, realsrv.com, reject
 host-suffix, amplitude.com, reject
-host-wildcard, *.volceapplog.*, reject
+host-suffix, volceapplog.com, reject
 host-suffix, shark-tracer.netease.com, reject
 host-suffix, toast.com, reject
 host-suffix, igaw.io, reject
@@ -109,7 +109,7 @@ host-suffix, appcenter.ms, reject
 host-suffix, sentry.io, reject
 host-suffix, ctobsnssdk.com, reject
 host-suffix, volces.com, reject
-host-wildcard, *.shuzilm.*, reject
+host-suffix, shuzilm.cn, reject
 host-suffix, trade.m.xiaomiyoupin.com, reject
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, optimus-ads.amap.com, reject
@@ -123,7 +123,7 @@ host-suffix, branch.io, reject
 host-suffix, volcimagex.net, reject
 host-suffix, adui.tg.meitu.com, reject
 host-suffix, nex8.space, reject
-host-wildcard, *.inkuai.*, reject
+host-suffix, inkuai.com, reject
 host-suffix, uyunad.com, reject
 host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
