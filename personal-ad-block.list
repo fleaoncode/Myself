@@ -30,10 +30,10 @@ host-suffix, criteo.com, reject
 host-suffix, mathtag.com, reject
 host-suffix, widerplanet.com, reject
 host-suffix, adpies.com, reject
-host-wildcard, *.kwaizt.*, reject
-host-wildcard, *.getui.*, reject
-host-wildcard, *.xycdn.*, reject
-host-wildcard, *.gepush.*, reject
+host-suffix, kwaizt.cn, reject
+host-suffix, getui.com, reject
+host-suffix, xycdn.com, reject
+host-suffix, gepush.com, reject
 host-suffix, rmhfrtnd.com, reject
 host-suffix, myavlive.com, reject
 host-suffix, ads.mozilla.org, reject
