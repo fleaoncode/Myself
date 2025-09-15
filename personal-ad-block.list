@@ -1,8 +1,11 @@
-host-wildcard, *.adx.*, reject
-host-wildcard, *.ads.*, reject
+host-wildcard, ad.*, reject
+host-wildcard, ads.*, reject
+host-wildcard, adx.*, reject
 host-wildcard, *.ad.*, reject
+host-wildcard, *.ads.*, reject
+host-wildcard, *.adx.*, reject
 host-suffix, sealine.youku.com, reject
-host-wildcard, *.gdt.qq.com, reject
+host-suffix, gdt.qq.com, reject
 host-wildcard, *.e.qq.com, reject
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
@@ -91,7 +94,7 @@ host-suffix, bestcontentfood.com, reject
 host-suffix, xlviirdr.*com, reject
 host-suffix, ptgncdn.com, reject
 host-suffix, go.rmhfrtnd.com, reject
-host-suffix, go.xliirdr.com, reject
+host-suffix, xliirdr.com, reject
 host-suffix, adtng.com, reject
 host-suffix, adashbc.ut.taobao.com, reject
 host-suffix, adashxgc.ut.taobao.com, reject
@@ -233,3 +236,7 @@ host-suffix, v.mitvos.com, reject
 host, tracking.intl.miui.com, reject
 host, dev.g.alicdn.com, reject
 host-suffix, cn-hangzhou.log.aliyuncs.com, reject
+host, adsrv.kurogames.com, reject
+
+
+
