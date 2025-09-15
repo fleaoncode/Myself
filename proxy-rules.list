@@ -19,8 +19,8 @@ host-suffix, o.pki.goog, proxy
 host-suffix, max-c.com, proxy
 host-suffix, deepseek.com, proxy
 host-suffix, cdn-apple.com, proxy
-host-wildcard, *.mzstatic.*, proxy
-host-wildcard, *.googleoptimize.*, proxy
+host-suffix, mzstatic.com, proxy
+host-suffix, googleoptimize.com, proxy
 host-suffix, icloud.com, proxy
 host-suffix, gs-loc.apple.com, direct
 host-suffix, apple.com, proxy
