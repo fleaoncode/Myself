@@ -242,7 +242,7 @@ host-suffix, adjust.net.in, reject
 host, yixiu-abtest.alicdn.com, reject
 host, heic.alicdn.com, reject
 host-suffix, cdn.yy.com, reject
-
+host, gw.alipayobjects.com, reject
 
 
 
