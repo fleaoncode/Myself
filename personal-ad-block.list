@@ -237,6 +237,12 @@ host, tracking.intl.miui.com, reject
 host, dev.g.alicdn.com, reject
 host-suffix, cn-hangzhou.log.aliyuncs.com, reject
 host, adsrv.kurogames.com, reject
+host-suffix, lnk0.com, reject
+host-suffix, adjust.net.in, reject
+host, yixiu-abtest.alicdn.com, reject
+host, heic.alicdn.com, reject
+host-suffix, cdn.yy.com, reject
+
 
 
 
