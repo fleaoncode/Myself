@@ -35,6 +35,7 @@ host-suffix, widerplanet.com, reject
 host-suffix, adpies.com, reject
 host-suffix, kwaizt.cn, reject
 host-suffix, getui.com, reject
+host-suffix, getui.net, reject
 host-suffix, xycdn.com, reject
 host-suffix, gepush.com, reject
 host-suffix, rmhfrtnd.com, reject
