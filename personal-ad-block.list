@@ -251,5 +251,5 @@ host, anti-sdk-report.m.jd.com, reject
 host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
-
+host-suffix, uri6.com, reject
 
