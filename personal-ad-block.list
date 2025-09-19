@@ -229,7 +229,6 @@ host-suffix, adtrafficquality.google, reject
 host, orange-dc.m.taobao.com, reject
 host, guide-acs.m.taobao.com, reject
 host, msgacs.m.taobao.com, reject
-host, hw-edge.biliapi.net, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, pandora.xiaomi.com, reject
 host, imgopen.xmcdn.com, reject
@@ -252,4 +251,6 @@ host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
 host-suffix, uri6.com, reject
-
+host-suffix, biliapi.net, reject
+host-suffix, reachmax.cn, reject
+host, cda.lilisi.com, reject
