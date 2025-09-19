@@ -244,6 +244,7 @@ host, yixiu-abtest.alicdn.com, reject
 host, heic.alicdn.com, reject
 host-suffix, cdn.yy.com, reject
 host, gw.alipayobjects.com, reject
-
+host, tracking.miui.com, reject
+host, mpush-api.aliyun.com, reject
 
 
