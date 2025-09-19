@@ -3,3 +3,5 @@ host-suffix, naver.com, reject
 host-suffix, naver.net, reject
 host, www.facebook.com, reject
 host-suffix, nate.com, reject
+host-suffix, archive.org, reject
+host-suffix, godaddy.com, reject
