@@ -247,4 +247,9 @@ host, gw.alipayobjects.com, reject
 host, tracking.miui.com, reject
 host, mpush-api.aliyun.com, reject
 host-suffix, oss-cn-hangzhou.aliyuncs.com, reject
+host, anti-sdk-report.m.jd.com, reject
+host, anti-sdk-ccs-pre.m.jd.com, reject
+host, ccc-x.jd.com, reject
+host, im-x.jd.com, reject
+
 
