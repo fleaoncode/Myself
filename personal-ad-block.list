@@ -251,6 +251,6 @@ host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
 host-suffix, uri6.com, reject
-host-suffix, biliapi.net, reject
+host-suffix, edge.biliapi.net, reject
 host-suffix, reachmax.cn, reject
 host, cda.lilisi.com, reject
