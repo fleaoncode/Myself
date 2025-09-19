@@ -246,5 +246,5 @@ host-suffix, cdn.yy.com, reject
 host, gw.alipayobjects.com, reject
 host, tracking.miui.com, reject
 host, mpush-api.aliyun.com, reject
-
+host-suffix, oss-cn-hangzhou.aliyuncs.com, reject
 
