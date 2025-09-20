@@ -204,7 +204,7 @@ host, ads-i3.xhscdn.com, reject
 host, ads-i2.xhscdn.com, reject
 host, ads-i1.xhscdn.com, reject
 host, ads-monitoring.papegames.com, reject
-host, sdk-log.partner.sm.cn, reject
+host-suffix, partner.sm.cn, reject
 host-suffix, cn-wulanchabu.dualstack.log.aliyuncs.com, reject
 host-suffix, toponadss.com, reject
 host-suffix, ad-scope.com.cn, reject
@@ -258,6 +258,19 @@ host-suffix, jpush.cn, reject
 host-suffix, chat.xiaomi.net, reject
 host, shopapi.io.mi.com, reject
 host-suffix, trace.qq.com, reject
-
+host-suffix, ut.uc.cn, reject
+host, biz.quark.cn, reject
+host, t-dsp.pinduoduo.com, reject
+host-suffix, 1rtb.com, reject
+host-suffix, 1rtb.net, reject
+host-suffix, 1sapp.com, reject
+host-suffix, e.kuaishou.cn, reject
+host-suffix, aiclk.com, reject
+host-suffix, qttunion.com, reject
+host, xlog.jd.com, reject
+host, janapi.jd.com, reject
+host, acs.youku.com, reject
+host-suffix, partner.uc.cn, reject
+host-suffix, heytapimage.com, reject
 
 
