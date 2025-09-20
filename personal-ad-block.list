@@ -254,3 +254,10 @@ host-suffix, uri6.com, reject
 host-suffix, edge.biliapi.net, reject
 host-suffix, reachmax.cn, reject
 host, cda.lilisi.com, reject
+host-suffix, jpush.cn, reject
+host-suffix, chat.xiaomi.net, reject
+host, shopapi.io.mi.com, reject
+host-suffix, trace.qq.com, reject
+
+
+
