@@ -5,3 +5,7 @@ host, www.facebook.com, reject
 host-suffix, nate.com, reject
 host-suffix, archive.org, reject
 host-suffix, godaddy.com, reject
+host-suffix, kakao.com, reject
+host-suffix, kakaocdn.net, reject
+host, connect.facebook.net, reject
+
