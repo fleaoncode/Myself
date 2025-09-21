@@ -272,5 +272,10 @@ host, janapi.jd.com, reject
 host, acs.youku.com, reject
 host-suffix, partner.uc.cn, reject
 host-suffix, heytapimage.com, reject
+host-suffix, criteo.net, reject
+host-suffix, daumcdn.net, reject
+host, license.pdfexpert.com, reject
+
+
 
 
