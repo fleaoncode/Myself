@@ -1,3 +1,6 @@
+host-keyword, -ad-, reject
+host-keyword, -ads-, reject
+host-keyword, -adx-, reject
 host-wildcard, ad.*, reject
 host-wildcard, ads.*, reject
 host-wildcard, adx.*, reject
