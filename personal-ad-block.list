@@ -291,7 +291,8 @@ host, render-prod-tile.amap.com, reject
 host, awaken.amap.com, reject
 host, m5-zb.amap.com, reject
 host, m5-x.amap.com, reject
-
+host-suffix, 300hu.com, reject
+host, mp-prod.smartmidea.net, reject
 
 
 
