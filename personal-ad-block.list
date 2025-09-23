@@ -275,7 +275,16 @@ host-suffix, heytapimage.com, reject
 host-suffix, criteo.net, reject
 host-suffix, daumcdn.net, reject
 host, license.pdfexpert.com, reject
-
+host-suffix, ptirsuckais.com, reject
+host-suffix, 62ad.com, reject
+host-suffix, adsensecustomsearchads.com, reject
+host-suffix, goadserver.com, reject
+host, adsession.exacdn.com, reject
+host-suffix, c4s-rd.services, reject
+host-suffix, jiguang.cn, reject
+host, mllog.jd.com, reject
+host, ccfjma.m.jd.com, reject
+host, sdkfp.jd.com, reject
 
 
 
