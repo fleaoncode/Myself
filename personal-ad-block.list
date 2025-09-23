@@ -158,8 +158,6 @@ host-suffix, audid-api.taobao.com, reject
 host-suffix, accscdn.m.taobao.com, reject
 host-suffix, track.uc.cn, reject
 host-suffix, adashx4id.ut.taobao.com, reject
-host-suffix, umengjmacs.m.taobao.com, reject
-host-suffix, umengacs.m.taobao.com, reject
 host-suffix, fourier.taobao.com, reject
 host-suffix, fourier.alibaba.com, reject
 host-suffix, alimama.alicdn.com, reject
@@ -230,8 +228,6 @@ host, dsp-x.jd.com, reject
 host, gw.alicdn.com, reject
 host-suffix, adtrafficquality.google, reject
 host, orange-dc.m.taobao.com, reject
-host, guide-acs.m.taobao.com, reject
-host, msgacs.m.taobao.com, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, pandora.xiaomi.com, reject
 host, imgopen.xmcdn.com, reject
@@ -287,6 +283,16 @@ host-suffix, jiguang.cn, reject
 host, mllog.jd.com, reject
 host, ccfjma.m.jd.com, reject
 host, sdkfp.jd.com, reject
+host-suffix, acs.m.taobao.com, reject
+host, amap-aos-info-nogw.amap.com, reject
+host, adashx.ut.amap.com, reject
+host, render.amap.com, reject
+host, render-prod-tile.amap.com, reject
+host, awaken.amap.com, reject
+host, m5-zb.amap.com, reject
+host, m5-x.amap.com, reject
+
+
 
 
 
