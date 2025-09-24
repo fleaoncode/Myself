@@ -148,11 +148,8 @@ host-suffix, adn-plus.com.cn, reject
 host-suffix, px.ucweb.com, reject
 host-suffix, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
-host-suffix, amdcopen.m.taobao.com, reject
-host-suffix, amdc.m.taobao.com, reject
-host-suffix, tunion-api.m.taobao.com, reject
+
 host-suffix, audid-api.taobao.com, reject
-host-suffix, accscdn.m.taobao.com, reject
 host-suffix, track.uc.cn, reject
 host-suffix, fourier.taobao.com, reject
 host-suffix, fourier.alibaba.com, reject
@@ -182,7 +179,7 @@ host-suffix, qchannel03.cn, reject
 host-suffix, amdc-sibling.alipay.com.cn, reject
 host-suffix, abtest.alibaba.com, reject
 host-suffix, amdc.alipay.com, reject
-host-suffix, atoken.m.taobao.com, reject
+
 host-suffix, aliapp.org, reject
 host-suffix, alibabachengdun.com, reject
 host-suffix, applog.uc.cn, reject
@@ -217,12 +214,11 @@ host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host, open.kuaishouzt.com, reject
 host-suffix, -adscore-api.biligame.net, reject
-host, tiga-release-dc.m.taobao.com, reject
+
 host, applogios.uc.cn, reject
 host, dsp-x.jd.com, reject
 host, gw.alicdn.com, reject
 host-suffix, adtrafficquality.google, reject
-host, orange-dc.m.taobao.com, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, pandora.xiaomi.com, reject
 host, imgopen.xmcdn.com, reject
@@ -277,10 +273,18 @@ host-suffix, jiguang.cn, reject
 host, mllog.jd.com, reject
 host, ccfjma.m.jd.com, reject
 host, sdkfp.jd.com, reject
+host-suffix, amdcopen.m.taobao.com, reject
+host-suffix, amdc.m.taobao.com, reject
+host-suffix, tunion-api.m.taobao.com, reject
+host-suffix, accscdn.m.taobao.com, reject
+host-suffix, atoken.m.taobao.com, reject
+host, tiga-release-dc.m.taobao.com, reject
 host, umengjmacs.m.taobao.com, reject
 host, umengacs.m.taobao.com, reject
 host, guide-acs.m.taobao.com, reject
 host, msgacs.m.taobao.com, reject
+host, main.m.taobao.com, reject
+host, orange-dc.m.taobao.com, reject
 host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
 host, render.amap.com, reject
@@ -290,6 +294,12 @@ host, m5-zb.amap.com, reject
 host, m5-x.amap.com, reject
 host-suffix, 300hu.com, reject
 host, mp-prod.smartmidea.net, reject
+host-suffix, volcengineapi.com, reject
+host, ossgw.alicdn.com, reject
+host-suffix, mobileservice.cn, reject
+
+
+
 
 
 
