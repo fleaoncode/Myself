@@ -99,8 +99,6 @@ host-suffix, ptgncdn.com, reject
 host-suffix, go.rmhfrtnd.com, reject
 host-suffix, xliirdr.com, reject
 host-suffix, adtng.com, reject
-host, adashbc.ut.taobao.com, reject
-host, adashxgc.ut.taobao.com, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao1.com, reject
 host-suffix, fenqile.com, reject
@@ -156,7 +154,6 @@ host-suffix, tunion-api.m.taobao.com, reject
 host-suffix, audid-api.taobao.com, reject
 host-suffix, accscdn.m.taobao.com, reject
 host-suffix, track.uc.cn, reject
-host, adashx4id.ut.taobao.com, reject
 host-suffix, fourier.taobao.com, reject
 host-suffix, fourier.alibaba.com, reject
 host-suffix, alimama.alicdn.com, reject
