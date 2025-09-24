@@ -70,7 +70,6 @@ host-suffix, ads-twitter.com, reject
 host-suffix, aligames.com, reject
 host-suffix, cafe24ssl.com, reject
 host-suffix, widerplanet.com, reject
-host-suffix, admonitor-feedback.cn-hangzhou.log.aliyuncs.com, reject
 host-suffix, jsmsat.com, reject
 host-suffix, northghost.com, reject
 host-suffix, gldrdr.com, reject
@@ -194,9 +193,7 @@ host-suffix, mazu.m.qq.com, reject
 host-suffix, cloud-config-service.rtc.aliyuncs.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
-host-suffix, alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com, reject
 host, dinamicx.alibabausercontent.com, reject
-host-suffix, cn-shanghai.dualstack.log.aliyuncs.com, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
@@ -206,7 +203,6 @@ host, ads-i2.xhscdn.com, reject
 host, ads-i1.xhscdn.com, reject
 host, ads-monitoring.papegames.com, reject
 host-suffix, partner.sm.cn, reject
-host-suffix, cn-wulanchabu.dualstack.log.aliyuncs.com, reject
 host-suffix, toponadss.com, reject
 host-suffix, ad-scope.com.cn, reject
 host-suffix, alibabachengdun.net, reject
@@ -217,7 +213,6 @@ host, mobads-logs.baidu.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, g.us.sinaimg.cn, reject
-host-suffix, cn-shanghai.log.aliyuncs.com, reject
 host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host, open.kuaishouzt.com, reject
@@ -234,7 +229,7 @@ host, imgopen.xmcdn.com, reject
 host-suffix, v.mitvos.com, reject
 host, tracking.intl.miui.com, reject
 host, dev.g.alicdn.com, reject
-host-suffix, cn-hangzhou.log.aliyuncs.com, reject
+host-suffix, log.aliyuncs.com, reject
 host, adsrv.kurogames.com, reject
 host-suffix, lnk0.com, reject
 host-suffix, adjust.net.in, reject
@@ -243,7 +238,6 @@ host, heic.alicdn.com, reject
 host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
 host, mpush-api.aliyun.com, reject
-host-suffix, oss-cn-hangzhou.aliyuncs.com, reject
 host, anti-sdk-report.m.jd.com, reject
 host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
@@ -283,7 +277,10 @@ host-suffix, jiguang.cn, reject
 host, mllog.jd.com, reject
 host, ccfjma.m.jd.com, reject
 host, sdkfp.jd.com, reject
-host-suffix, acs.m.taobao.com, reject
+host, umengjmacs.m.taobao.com, reject
+host, umengacs.m.taobao.com, reject
+host, guide-acs.m.taobao.com, reject
+host, msgacs.m.taobao.com, reject
 host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
 host, render.amap.com, reject
