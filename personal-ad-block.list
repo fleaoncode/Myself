@@ -9,7 +9,7 @@ host-wildcard, *.ads.*, reject
 host-wildcard, *.adx.*, reject
 host-suffix, sealine.youku.com, reject
 host-suffix, gdt.qq.com, reject
-host-wildcard, *.e.qq.com, reject
+host-suffix, e.qq.com, reject
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
 host-suffix, hubcloud.com.com, reject
@@ -49,7 +49,7 @@ host-suffix, jsdelivr.com, reject
 host-suffix, magsrv.com, reject
 host-suffix, pemsrv.com, reject
 host-suffix, reebr.com, reject
-host-suffix, h-adashx.ut.taobao.com, reject
+host-suffix, ut.taobao.com, reject
 host-suffix, paupsoborofoow.net, reject
 host-suffix, iwhoogevouque.net, reject
 host-suffix, iwhaustaih.com, reject
