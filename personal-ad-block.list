@@ -36,6 +36,8 @@ host-suffix, criteo.com, reject
 host-suffix, mathtag.com, reject
 host-suffix, widerplanet.com, reject
 host-suffix, adpies.com, reject
+host, kuaishou.httpdns.pro, reject
+host-suffix, kwaizt.com, reject
 host-suffix, kwaizt.cn, reject
 host-suffix, getui.com, reject
 host-suffix, getui.net, reject
