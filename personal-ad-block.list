@@ -303,7 +303,8 @@ host, m5-x.amap.com, reject
 host-suffix, 300hu.com, reject
 host-suffix, volcengineapi.com, reject
 host-suffix, mobileservice.cn, reject
-
+host, m.ctrip.com, reject
+host, ma-adx.ctrip.com, reject
 
 
 
