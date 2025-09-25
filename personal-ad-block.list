@@ -305,7 +305,10 @@ host-suffix, volcengineapi.com, reject
 host-suffix, mobileservice.cn, reject
 host, m.ctrip.com, reject
 host, ma-adx.ctrip.com, reject
-
+host, api.mcd.cn, reject
+host-suffix, portal101.cn, reject
+host-suffix, fengkongcloud.com, reject
+host, tracking.mcdonalds.com.cn, reject
 
 
 
