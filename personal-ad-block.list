@@ -154,6 +154,8 @@ host-suffix, mobon.net, reject
 host-suffix, adprod.cn, reject
 host-suffix, feedsads.cn, reject
 host-suffix, adn-plus.com.cn, reject
+host, dsp-impr.youdao.com, reject
+host, dsp-impr2.youdao.com, reject
 host-suffix, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
 host, audid-api.taobao.com, reject
