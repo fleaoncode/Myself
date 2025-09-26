@@ -7,11 +7,14 @@ host-wildcard, adx.*, reject
 host-wildcard, *.ad.*, reject
 host-wildcard, *.ads.*, reject
 host-wildcard, *.adx.*, reject
+
+#qq
 host-suffix, gdt.qq.com, reject
 host-suffix, e.qq.com, reject
 host-suffix, mazu.m.qq.com, reject
 host-suffix, bugly.qq.com, reject
 host-suffix, trace.qq.com, reject
+
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
 host-suffix, hubcloud.com.com, reject
@@ -39,6 +42,8 @@ host-suffix, criteo.com, reject
 host-suffix, mathtag.com, reject
 host-suffix, widerplanet.com, reject
 host-suffix, adpies.com, reject
+
+#kuaishou
 host, kuaishou.httpdns.pro, reject
 host-suffix, kwaizt.com, reject
 host-suffix, kwaizt.cn, reject
@@ -49,6 +54,7 @@ host-suffix, e.kuaishou.com, reject
 host-suffix, adkwai.com, reject
 host-suffix, adbkwai.com, reject
 host-suffix, adukwai.com, reject
+
 host-suffix, getui.com, reject
 host-suffix, getui.net, reject
 host-suffix, xycdn.com, reject
@@ -61,7 +67,6 @@ host-suffix, jsdelivr.com, reject
 host-suffix, magsrv.com, reject
 host-suffix, pemsrv.com, reject
 host-suffix, reebr.com, reject
-host-suffix, ut.taobao.com, reject
 host-suffix, paupsoborofoow.net, reject
 host-suffix, iwhoogevouque.net, reject
 host-suffix, iwhaustaih.com, reject
@@ -76,13 +81,11 @@ host-suffix, atm.youku.com, reject
 host-suffix, ems.youku.com, reject
 host, acs.youku.com, reject
 host-suffix, sdk.open.talk.igexin.com, reject
-host-suffix, baichuan-sdk.taobao.com, reject
 host-suffix, miaozhen.com, reject
 host-suffix, uve.weibo.com, reject
 host-suffix, biz.weibo.com, reject
 host-suffix, im.weibo.cn, reject
 host-suffix, ads-twitter.com, reject
-host-suffix, aligames.com, reject
 host-suffix, cafe24ssl.com, reject
 host-suffix, widerplanet.com, reject
 host-suffix, jsmsat.com, reject
@@ -128,7 +131,6 @@ host-suffix, ctobsnssdk.com, reject
 host-suffix, volces.com, reject
 host-suffix, shuzilm.cn, reject
 host-suffix, trade.m.xiaomiyoupin.com, reject
-host-suffix, adashx.m.taobao.com, reject
 host-suffix, optimus-ads.amap.com, reject
 host-suffix, ads-vp5.xhscdn.com, reject
 host-suffix, ads-vp5-xhscdn.tliveapp.com, reject
@@ -158,18 +160,6 @@ host, dsp-impr.youdao.com, reject
 host, dsp-impr2.youdao.com, reject
 host-suffix, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
-host, audid-api.taobao.com, reject
-host, fourier.taobao.com, reject
-host, fourier.alibaba.com, reject
-host, alimama.alicdn.com, reject
-host, atanx.alicdn.com, reject
-host, hudong.alicdn.com, reject
-host, gw.alicdn.com, reject
-host, ossgw.alicdn.com, reject
-host, dev.g.alicdn.com, reject
-host, yixiu-abtest.alicdn.com, reject
-host, heic.alicdn.com, reject
-host, baichuan-sdk.alicdn.com, reject
 host-suffix, jsdelivr.net, reject
 host-suffix, eunow4u.com, reject
 host-suffix, sunnycloudstone.com, reject
@@ -182,12 +172,6 @@ host-suffix, adjust.com, reject
 host-suffix, sacdnssedge.com, reject
 host-suffix, saawsedge.com, reject
 host-suffix, doppiocdn.com, reject
-host, loggw-ex.alipay.com, reject
-host, loggw.alipay.com, reject
-host, adgw.alipay.com, reject
-host, amdc-sibling.alipay.com, reject
-host, amdc-sibling.alipay.com.cn, reject
-host, amdc.alipay.com, reject
 host-suffix, doubleclick.net, reject
 host-suffix, meba.kr, reject
 host-suffix, appsflyersdk.com, reject
@@ -195,11 +179,6 @@ host-suffix, appsflyer.com, reject
 host-suffix, qchannel01.cn, reject
 host-suffix, qchannel02.cn, reject
 host-suffix, qchannel03.cn, reject
-host-suffix, abtest.alibaba.com, reject
-host-suffix, aliapp.org, reject
-host-suffix, alibabachengdun.com, reject
-host-suffix, alilang-intranet.alibaba-inc.com, reject
-host, dinamicx.alibabausercontent.com, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
@@ -214,7 +193,6 @@ host-suffix, toponad.com, reject
 host-suffix, adnonstop.cn, reject
 host-suffix, wwads.cn, reject
 host-suffix, ad-scope.com.cn, reject
-host-suffix, alibabachengdun.net, reject
 host-suffix, huichuan.sm.cn, reject
 host, mobads-logs.baidu.com, reject
 host-suffix, skynet.bilivideo.com, reject
@@ -257,7 +235,47 @@ host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
 
 #ali
+host-suffix, adashx.m.taobao.com, reject
+host-suffix, baichuan-sdk.taobao.com, reject
+host, audid-api.taobao.com, reject
+host, fourier.taobao.com, reject
+host-suffix, ut.taobao.com, reject
+host, amdcopen.m.taobao.com, reject
+host, tunion-api.m.taobao.com, reject
+host, accscdn.m.taobao.com, reject
+host, atoken.m.taobao.com, reject
+host, tiga-release-dc.m.taobao.com, reject
+host, umengjmacs.m.taobao.com, reject
+host, umengacs.m.taobao.com, reject
+host, guide-acs.m.taobao.com, reject
+host, msgacs.m.taobao.com, reject
+host, main.m.taobao.com, reject
+host, orange-dc.m.taobao.com, reject
+host, rhdc-acs.m.taobao.com, reject
+host, alimama.alicdn.com, reject
+host, atanx.alicdn.com, reject
+host, hudong.alicdn.com, reject
+host, gw.alicdn.com, reject
+host, ossgw.alicdn.com, reject
+host, dev.g.alicdn.com, reject
+host, yixiu-abtest.alicdn.com, reject
+host, heic.alicdn.com, reject
+host, baichuan-sdk.alicdn.com, reject
+host, wvcfg.alicdn.com, reject
+host, loggw-ex.alipay.com, reject
+host, loggw.alipay.com, reject
+host, adgw.alipay.com, reject
+host, amdc-sibling.alipay.com, reject
+host, amdc-sibling.alipay.com.cn, reject
+host, amdc.alipay.com, reject
 host-suffix, mmstat.com, reject
+host-suffix, abtest.alibaba.com, reject
+host-suffix, aliapp.org, reject
+host-suffix, alibabachengdun.com, reject
+host-suffix, alilang-intranet.alibaba-inc.com, reject
+host, dinamicx.alibabausercontent.com, reject
+host-suffix, alibabachengdun.net, reject
+host, fourier.alibaba.com, reject
 host, mpush-api.aliyun.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
@@ -266,11 +284,19 @@ host-suffix, log.aliyuncs.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, reject
 host-suffix, cn-hangzhou.aliyuncs.com, reject
-host, wvcfg.alicdn.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
 host, netflow-mtop.cainiao.com, reject
 host, unet.quark.cn, reject
-
+host-suffix, aligames.com, reject
+host-suffix, px.ucweb.com, reject
+host, track.uc.cn, reject
+host-suffix, applog.uc.cn, reject
+host-suffix, ut.uc.cn, reject
+host-suffix, partner.uc.cn, reject
+host, applogios.uc.cn, reject
+host, applog-perf.uc.cn, reject
+host, pushdevice.uc.cn, reject
+host, clouddrive-activity.uc.cn, reject
 
 
 host-suffix, uri6.com, reject
@@ -281,15 +307,6 @@ host-suffix, jpush.cn, reject
 host-suffix, chat.xiaomi.net, reject
 host, shopapi.io.mi.com, reject
 host, api.douban.com, reject
-host-suffix, px.ucweb.com, reject
-host, track.uc.cn, reject
-host-suffix, applog.uc.cn, reject
-host-suffix, ut.uc.cn, reject
-host-suffix, partner.uc.cn, reject
-host, applogios.uc.cn, reject
-host, applog-perf.uc.cn, reject
-host, pushdevice.uc.cn, reject
-host, clouddrive-activity.uc.cn, reject
 host-suffix, cmpassport.com, reject
 host, biz.quark.cn, reject
 host, gallery.fbcontent.cn, reject
@@ -311,18 +328,6 @@ host-suffix, douyinpic.com, reject
 host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
 host-suffix, jiguang.cn, reject
-host, amdcopen.m.taobao.com, reject
-host, tunion-api.m.taobao.com, reject
-host, accscdn.m.taobao.com, reject
-host, atoken.m.taobao.com, reject
-host, tiga-release-dc.m.taobao.com, reject
-host, umengjmacs.m.taobao.com, reject
-host, umengacs.m.taobao.com, reject
-host, guide-acs.m.taobao.com, reject
-host, msgacs.m.taobao.com, reject
-host, main.m.taobao.com, reject
-host, orange-dc.m.taobao.com, reject
-host, rhdc-acs.m.taobao.com, reject
 host-suffix, ut.cainiao.com, reject
 host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
