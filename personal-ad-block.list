@@ -298,7 +298,6 @@ host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
 host-suffix, jiguang.cn, reject
 host, amdcopen.m.taobao.com, reject
-host, amdc.m.taobao.com, reject
 host, tunion-api.m.taobao.com, reject
 host, accscdn.m.taobao.com, reject
 host, atoken.m.taobao.com, reject
@@ -310,6 +309,7 @@ host, msgacs.m.taobao.com, reject
 host, main.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
 host, rhdc-acs.m.taobao.com, reject
+host-suffix, ut.cainiao.com, reject
 host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
 host, render.amap.com, reject
