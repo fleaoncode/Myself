@@ -279,6 +279,7 @@ host, pushdevice.uc.cn, reject
 host, clouddrive-activity.uc.cn, reject
 host-suffix, cmpassport.com, reject
 host, biz.quark.cn, reject
+host, gallery.fbcontent.cn, reject
 host, t-dsp.pinduoduo.com, reject
 host-suffix, 1rtb.com, reject
 host-suffix, 1rtb.net, reject
