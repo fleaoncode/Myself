@@ -289,7 +289,7 @@ host-suffix, abtest.alibaba.com, reject
 -host-suffix, aliapp.org, reject
 host-suffix, alibabachengdun.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
-host, dinamicx.alibabausercontent.com, reject
+-host, dinamicx.alibabausercontent.com, reject
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
 host, mpush-api.aliyun.com, reject
