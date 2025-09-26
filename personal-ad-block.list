@@ -329,7 +329,6 @@ host-suffix, ptirsuckais.com, reject
 host-suffix, 62ad.com, reject
 host-suffix, adsensecustomsearchads.com, reject
 host-suffix, goadserver.com, reject
-host-suffix, douyinpic.com, reject
 host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
 host, amap-aos-info-nogw.amap.com, reject
