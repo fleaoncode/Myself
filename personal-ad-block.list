@@ -201,6 +201,8 @@ host, g.us.sinaimg.cn, reject
 host, ad.cyapi.cn, reject
 host, ads-api.twitter.com, reject
 host-suffix, biligame.net, reject
+
+#jd
 host, dsp-x.jd.com, reject
 host, mllog.jd.com, reject
 host, ccfjma.m.jd.com, reject
@@ -223,6 +225,10 @@ host, wlmonitor.m.jd.com, reject
 host, ex.m.jd.com, reject
 host, api.m.jd.com, reject
 host, mapi.m.jd.com, reject
+host-suffix, 300hu.com, reject
+
+
+
 host-suffix, adtrafficquality.google, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, pandora.xiaomi.com, reject
@@ -235,7 +241,7 @@ host-suffix, adjust.net.in, reject
 host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
 
-#ali
+#ali⬇️
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, audid-api.taobao.com, reject
@@ -285,6 +291,7 @@ host-suffix, log.aliyuncs.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, reject
 host-suffix, cn-hangzhou.aliyuncs.com, reject
+host-suffix, ut.cainiao.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
 host, netflow-mtop.cainiao.com, reject
 host, unet.quark.cn, reject
@@ -298,7 +305,9 @@ host, applogios.uc.cn, reject
 host, applog-perf.uc.cn, reject
 host, pushdevice.uc.cn, reject
 host, clouddrive-activity.uc.cn, reject
-
+host, biz.quark.cn, reject
+host-suffix, jiguang.cn, reject
+#⬆️
 
 host-suffix, uri6.com, reject
 host-suffix, edge.biliapi.net, reject
@@ -309,7 +318,6 @@ host-suffix, chat.xiaomi.net, reject
 host, shopapi.io.mi.com, reject
 host, api.douban.com, reject
 host-suffix, cmpassport.com, reject
-host, biz.quark.cn, reject
 host, gallery.fbcontent.cn, reject
 host, t-dsp.pinduoduo.com, reject
 host-suffix, 1rtb.com, reject
@@ -328,8 +336,6 @@ host-suffix, goadserver.com, reject
 host-suffix, douyinpic.com, reject
 host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
-host-suffix, jiguang.cn, reject
-host-suffix, ut.cainiao.com, reject
 host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
 host, render.amap.com, reject
@@ -337,7 +343,6 @@ host, render-prod-tile.amap.com, reject
 host, awaken.amap.com, reject
 host, m5-zb.amap.com, reject
 host, m5-x.amap.com, reject
-host-suffix, 300hu.com, reject
 host-suffix, volcengineapi.com, reject
 host-suffix, mobileservice.cn, reject
 host, m.ctrip.com, reject
@@ -346,6 +351,9 @@ host, api.mcd.cn, reject
 host-suffix, portal101.cn, reject
 host-suffix, fengkongcloud.com, reject
 host, tracking.mcdonalds.com.cn, reject
+
+
+
 
 
 
