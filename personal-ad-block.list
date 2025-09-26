@@ -250,7 +250,6 @@ host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
 
 #ali⬇️
-host, amdc.m.taobao.com, reject
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, audid-api.taobao.com, reject
