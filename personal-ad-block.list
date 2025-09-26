@@ -18,6 +18,7 @@ host-suffix, hubcloud.com.com, reject
 host-suffix, effirst.com, reject
 host-suffix, tanx.com, reject
 host-suffix, ads.serving-sys.cn, reject
+host-suffix, yunjuhe.cn, reject
 host-suffix, umengcloud.com, reject
 host-suffix, umeng.com, reject
 host-suffix, exdynsrv.com, reject
