@@ -236,6 +236,9 @@ host, anti-sdk-report.m.jd.com, reject
 host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
+host, knicks.jd.com, reject
+host, dg.k.jd.com, reject
+host, orbit.jd.com, reject
 host, perf.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host, ex.m.jd.com, reject
