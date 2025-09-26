@@ -252,8 +252,6 @@ host, tracking.miui.com, reject
 #ali⬇️
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
-host, audid-api.taobao.com, reject
-host, fourier.taobao.com, reject
 host-suffix, ut.taobao.com, reject
 host, amdcopen.m.taobao.com, reject
 host, tunion-api.m.taobao.com, reject
