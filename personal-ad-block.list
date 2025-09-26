@@ -268,8 +268,6 @@ host, rhdc-acs.m.taobao.com, reject
 host, alimama.alicdn.com, reject
 host, atanx.alicdn.com, reject
 host, hudong.alicdn.com, reject
-host, gw.alicdn.com, reject
-host, ossgw.alicdn.com, reject
 host, dev.g.alicdn.com, reject
 host, yixiu-abtest.alicdn.com, reject
 host, heic.alicdn.com, reject
