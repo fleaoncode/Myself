@@ -45,6 +45,7 @@ host, g.us.sinaimg.cn, reject
 #ali⬇️
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
+host, acs4baichuan.m.taobao.com, reject
 host-suffix, ut.taobao.com, reject
 host, amdcopen.m.taobao.com, reject
 host, tunion-api.m.taobao.com, reject
@@ -199,6 +200,8 @@ host-suffix, sealine.youku.com, reject
 host-suffix, atm.youku.com, reject
 host-suffix, ems.youku.com, reject
 host, acs.youku.com, reject
+host, adx-open-service.youku.com, reject
+host, static.eudic.net, reject
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
 host-suffix, adui.tg.meitu.com, reject
