@@ -226,6 +226,7 @@ host, dsp-x.jd.com, reject
 host, mllog.jd.com, reject
 host, ccfjma.m.jd.com, reject
 host, sdkfp.jd.com, reject
+host, sh.jd.com, reject
 host, blackhole.m.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host-suffix, jdcloud-oss.com, reject
