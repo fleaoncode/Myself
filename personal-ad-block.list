@@ -240,6 +240,7 @@ host, perf.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host, ex.m.jd.com, reject
 host, api.m.jd.com, reject
+host, mapi.m.jd.com, reject
 host-suffix, adtrafficquality.google, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, pandora.xiaomi.com, reject
@@ -260,6 +261,7 @@ host, cda.lilisi.com, reject
 host-suffix, jpush.cn, reject
 host-suffix, chat.xiaomi.net, reject
 host, shopapi.io.mi.com, reject
+host, api.douban.com, reject
 host-suffix, px.ucweb.com, reject
 host, track.uc.cn, reject
 host-suffix, applog.uc.cn, reject
