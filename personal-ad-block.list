@@ -284,6 +284,7 @@ host-suffix, alilang-intranet.alibaba-inc.com, reject
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
 host, mpush-api.aliyun.com, reject
+host-suffix, log.aliyuncs.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
