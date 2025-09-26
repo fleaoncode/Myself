@@ -292,7 +292,6 @@ host, fourier.alibaba.com, reject
 host, mpush-api.aliyun.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
-host-suffix, rtc.aliyuncs.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, cn-hangzhou.aliyuncs.com, reject
 host-suffix, ut.cainiao.com, reject
