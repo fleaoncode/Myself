@@ -293,7 +293,6 @@ host-suffix, oss-cn-zhangjiakou.aliyuncs.com, reject
 host-suffix, cn-hangzhou.aliyuncs.com, reject
 host-suffix, ut.cainiao.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
-host, netflow-mtop.cainiao.com, reject
 host, unet.quark.cn, reject
 host-suffix, aligames.com, reject
 host-suffix, px.ucweb.com, reject
