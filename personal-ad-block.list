@@ -83,9 +83,17 @@ host-suffix, ems.youku.com, reject
 host, acs.youku.com, reject
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
+
+
 host-suffix, uve.weibo.com, reject
 host-suffix, biz.weibo.com, reject
 host-suffix, im.weibo.cn, reject
+host, adpinpai.video.weibocdn.com, reject
+
+
+host, tnc3-alisc1.zijieapi.com, reject
+
+host-suffix, xinqiucc.com, reject
 host-suffix, ads-twitter.com, reject
 host-suffix, cafe24ssl.com, reject
 host-suffix, widerplanet.com, reject
@@ -242,6 +250,7 @@ host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
 
 #ali⬇️
+host, amdc.m.taobao.com, reject
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, audid-api.taobao.com, reject
