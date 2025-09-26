@@ -8,12 +8,13 @@ host-wildcard, *.ad.*, reject
 host-wildcard, *.ads.*, reject
 host-wildcard, *.adx.*, reject
 
-#qq
+#qq⬇️
 host-suffix, gdt.qq.com, reject
 host-suffix, e.qq.com, reject
 host-suffix, mazu.m.qq.com, reject
 host-suffix, bugly.qq.com, reject
 host-suffix, trace.qq.com, reject
+#⬆️
 
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
