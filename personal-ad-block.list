@@ -198,9 +198,7 @@ host-suffix, qchannel03.cn, reject
 host-suffix, abtest.alibaba.com, reject
 host-suffix, aliapp.org, reject
 host-suffix, alibabachengdun.com, reject
-host-suffix, cloud-config-service.rtc.aliyuncs.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
-host-suffix, dypnsapi.aliyuncs.com, reject
 host, dinamicx.alibabausercontent.com, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
@@ -219,7 +217,6 @@ host-suffix, ad-scope.com.cn, reject
 host-suffix, alibabachengdun.net, reject
 host-suffix, huichuan.sm.cn, reject
 host, mobads-logs.baidu.com, reject
-host, vpp-license-proxy.aliyuncs.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, g.us.sinaimg.cn, reject
 host, ad.cyapi.cn, reject
@@ -253,13 +250,29 @@ host-suffix, pandora.xiaomi.com, reject
 host, imgopen.xmcdn.com, reject
 host-suffix, v.mitvos.com, reject
 host, tracking.intl.miui.com, reject
-host-suffix, log.aliyuncs.com, reject
 host, adsrv.kurogames.com, reject
 host-suffix, lnk0.com, reject
 host-suffix, adjust.net.in, reject
 host-suffix, cdn.yy.com, reject
 host, tracking.miui.com, reject
+
+#ali
+host-suffix, mmstat.com, reject
 host, mpush-api.aliyun.com, reject
+host, arms-retcode.aliyuncs.com, reject
+host, vpp-license-proxy.aliyuncs.com, reject
+host-suffix, rtc.aliyuncs.com, reject
+host-suffix, log.aliyuncs.com, reject
+host-suffix, dypnsapi.aliyuncs.com, reject
+host-suffix, oss-cn-zhangjiakou.aliyuncs.com, reject
+host-suffix, cn-hangzhou.aliyuncs.com, reject
+host, wvcfg.alicdn.com, reject
+host, nbnestcreativecdn.cainiao.com, reject
+host, netflow-mtop.cainiao.com, reject
+host, unet.quark.cn, reject
+
+
+
 host-suffix, uri6.com, reject
 host-suffix, edge.biliapi.net, reject
 host-suffix, reachmax.cn, reject
@@ -294,6 +307,7 @@ host-suffix, ptirsuckais.com, reject
 host-suffix, 62ad.com, reject
 host-suffix, adsensecustomsearchads.com, reject
 host-suffix, goadserver.com, reject
+host-suffix, douyinpic.com, reject
 host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
 host-suffix, jiguang.cn, reject
