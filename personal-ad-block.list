@@ -55,6 +55,7 @@ host, tiga-release-dc.m.taobao.com, reject
 host, umengjmacs.m.taobao.com, reject
 host, umengacs.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
+host, gjusp.alicdn.com, reject
 host, alimama.alicdn.com, reject
 host, atanx.alicdn.com, reject
 host, hudong.alicdn.com, reject
