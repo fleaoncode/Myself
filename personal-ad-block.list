@@ -101,6 +101,9 @@ host, pushdevice.uc.cn, reject
 host, clouddrive-activity.uc.cn, reject
 host, biz.quark.cn, reject
 host-suffix, jiguang.cn, reject
+host, gaode-acs.m.taobao.com, reject
+#带地址类
+host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
 #⬆️
 
 
@@ -136,6 +139,7 @@ host, amap-aos-info-nogw.amap.com, reject
 host, adashx.ut.amap.com, reject
 host, render.amap.com, reject
 host, render-prod-tile.amap.com, reject
+host, render-prod-backup-tile.amap.com, reject
 host, awaken.amap.com, reject
 host, m5-zb.amap.com, reject
 host, m5-x.amap.com, reject
@@ -206,6 +210,7 @@ host-suffix, atm.youku.com, reject
 host-suffix, ems.youku.com, reject
 host, acs.youku.com, reject
 host, adx-open-service.youku.com, reject
+host, xpis-xcdn.youku.com, reject
 host, static.eudic.net, reject
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
