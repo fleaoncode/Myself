@@ -15,6 +15,7 @@ host-suffix, mazu.m.qq.com, reject
 host-suffix, bugly.qq.com, reject
 host-suffix, trace.qq.com, reject
 host, nvs.im.tencent.cn, reject
+host-suffix, ugdtimg.com, reject
 #⬆️
 
 
@@ -357,7 +358,6 @@ host-suffix, appsflyersdk.com, reject
 host-suffix, appsflyer.com, reject
 host-suffix, toponadss.com, reject
 host-suffix, toponad.com, reject
-host-suffix, adnonstop.cn, reject
 host, ads-api.twitter.com, reject
 host-suffix, adtrafficquality.google, reject
 host, adsrv.kurogames.com, reject
