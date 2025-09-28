@@ -248,9 +248,6 @@ host, api.douban.com, reject
 host-suffix, cmpassport.com, reject
 host, gallery.fbcontent.cn, reject
 host, t-dsp.pinduoduo.com, reject
-host-suffix, qchannel01.cn, reject
-host-suffix, qchannel02.cn, reject
-host-suffix, qchannel03.cn, reject
 host-suffix, cos.ap-shanghai.myqcloud.com, reject
 host-suffix, ad.12306.cn, reject
 host, ads-monitoring.papegames.com, reject
