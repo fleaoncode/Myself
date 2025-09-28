@@ -44,6 +44,13 @@ host, g.us.sinaimg.cn, reject
 
 
 #ali⬇️
+host, rhdc-acs.m.taobao.com, reject
+host, mdike.alicdn.com, reject
+host, dinamicx.alibabausercontent.com, reject
+host, tinyapp-gateway.alipay.com, reject
+host, umc.danuoyi.alicdn.com, reject
+host, iyes.youku.com, reject
+
 host, mtop-dict.m.taobao.com, reject
 host, aid.m.taobao.com, reject
 host-suffix, adashx.m.taobao.com, reject
