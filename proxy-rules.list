@@ -13,6 +13,7 @@ host-suffix, googleapis.com, proxy
 host-suffix, googletagmanager.com, proxy
 host-suffix, google-analytics.com, proxy
 host-suffix, googlevideo.com, proxy
+host-suffix, googlesyndication.com, proxy
 host-wildcard, *.google.*, proxy
 host-suffix, googleapis.com, proxy
 host-suffix, www.recaptcha.net, proxy
