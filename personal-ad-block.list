@@ -143,6 +143,7 @@ host, tracking.miui.com, reject
 host, shopapi.io.mi.com, reject
 host, api.m.mi.com, reject
 host, cdn.cnbj1.fds.api.mi-img.com, reject
+host, a-hl.mi.com, reject
 #⬆️
 
 
