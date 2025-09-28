@@ -44,6 +44,8 @@ host, g.us.sinaimg.cn, reject
 
 
 #ali⬇️
+host, mtop-dict.m.taobao.com, reject
+host, aid.m.taobao.com, reject
 host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, acs4baichuan.m.taobao.com, reject
@@ -385,7 +387,8 @@ host-suffix, adsensecustomsearchads.com, reject
 host-suffix, goadserver.com, reject
 host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
-
+host-suffix, snaptrckr.fun, reject
+host-suffix, javhdhello.com, reject
 
 
 
