@@ -149,9 +149,6 @@ host-suffix, optimus-ads.amap.com, reject
 host-suffix, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
 host, adashx.ut.amap.com, reject
-host, render.amap.com, reject
-host, render-prod-tile.amap.com, reject
-host, render-prod-backup-tile.amap.com, reject
 #⬆️
 
 
