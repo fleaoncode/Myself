@@ -53,6 +53,7 @@ host-suffix, adashx.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, acs4baichuan.m.taobao.com, reject
 host-suffix, ut.taobao.com, reject
+host, msgacs.m.taobao.com, reject
 host, amdcopen.m.taobao.com, reject
 host, tunion-api.m.taobao.com, reject
 host, accscdn.m.taobao.com, reject
@@ -88,6 +89,7 @@ host-suffix, alilang-intranet.alibaba-inc.com, reject
 -host, dinamicx.alibabausercontent.com, reject
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
+host, beacon-api.aliyuncs.com, reject
 host, mpush-api.aliyun.com, reject
 host-suffix, log.aliyuncs.com, reject
 host, arms-retcode.aliyuncs.com, reject
