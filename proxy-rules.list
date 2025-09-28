@@ -25,8 +25,9 @@ host-suffix, googleoptimize.com, proxy
 host-suffix, ytimg.com, proxy
 host, app-analytics-services.com, proxy
 host-suffix, icloud.com, proxy
-host-suffix, gs-loc.apple.com, direct
+host, gs-loc.apple.com, direct
 host-suffix, apple.com, proxy
+host, cdn.apple-mapkit.com, proxy
 host, iosapps.itunes.apple.com, direct
 
 
