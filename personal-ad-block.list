@@ -61,6 +61,7 @@ host, tiga-release-dc.m.taobao.com, reject
 host, umengjmacs.m.taobao.com, reject
 host, umengacs.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
+host, tiga-release-dc.m.taobao.com, reject
 host, wvcfg.alicdn.com, reject
 host, mdike.alicdn.com, reject
 host, dtmall-tel.alicdn.com, reject
@@ -108,6 +109,7 @@ host, clouddrive-activity.uc.cn, reject
 host, biz.quark.cn, reject
 host-suffix, jiguang.cn, reject
 host, gaode-acs.m.taobao.com, reject
+host, metis-er.ele.me, reject
 #带地址类
 host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
 #⬆️
@@ -149,6 +151,7 @@ host, render-prod-backup-tile.amap.com, reject
 host, awaken.amap.com, reject
 host, m5-zb.amap.com, reject
 host, m5-x.amap.com, reject
+host, dualstack-arestapi.amap.com, reject
 #⬆️
 
 
