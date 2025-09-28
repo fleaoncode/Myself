@@ -16,6 +16,8 @@ host-suffix, bugly.qq.com, reject
 host-suffix, trace.qq.com, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, ugdtimg.com, reject
+host, cc.map.qq.com, reject
+host, lbs.map.qq.com, reject
 #⬆️
 
 
@@ -171,6 +173,7 @@ host, im-x.jd.com, reject
 host, knicks.jd.com, reject
 host, dg.k.jd.com, reject
 host, orbit.jd.com, reject
+host, pro.m.jd.com, reject
 host, perf.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host, ex.m.jd.com, reject
