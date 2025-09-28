@@ -75,6 +75,7 @@ host, yixiu-abtest.alicdn.com, reject
 host, heic.alicdn.com, reject
 host, baichuan-sdk.alicdn.com, reject
 host, nbsdk-baichuan.alicdn.com, reject
+host, slsrole.alicdn.com, reject
 host, loggw-ex.alipay.com, reject
 host, loggw.alipay.com, reject
 host, adgw.alipay.com, reject
@@ -92,6 +93,7 @@ host, fourier.alibaba.com, reject
 host, beacon-api.aliyuncs.com, reject
 host, mpush-api.aliyun.com, reject
 host-suffix, log.aliyuncs.com, reject
+host-suffix, log-global.aliyuncs.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, vpp-license-proxy.aliyuncs.com, reject
 host-suffix, dypnsapi.aliyuncs.com, reject
