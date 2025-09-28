@@ -230,6 +230,7 @@ host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
 host, mobads-pre-config.cdn.bcebos.com, reject
 host-suffix, mobads.baidu.com, reject
+host-suffix, pos.baidu.com, reject
 host, dsp-impr.youdao.com, reject
 host, dsp-impr2.youdao.com, reject
 host-suffix, cdn.yy.com, reject
