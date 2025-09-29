@@ -86,10 +86,10 @@ host, amdc-sibling.alipay.com.cn, reject
 host, amdc.alipay.com, reject
 host-suffix, mmstat.com, reject
 host-suffix, abtest.alibaba.com, reject
--host-suffix, aliapp.org, reject
+host-suffix, aliapp.org, reject
 host-suffix, alibabachengdun.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
--host, dinamicx.alibabausercontent.com, reject
+host, dinamicx.alibabausercontent.com, reject
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
 host, beacon-api.aliyuncs.com, reject
@@ -102,7 +102,6 @@ host-suffix, dypnsapi.aliyuncs.com, reject
 host-suffix, ut.cainiao.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
 host, g-acs.m.goofish.com, reject
-host, unet.quark.cn, reject
 host-suffix, aligames.com, reject
 host-suffix, px.ucweb.com, reject
 host, track.uc.cn, reject
@@ -151,7 +150,7 @@ host, a-hl.mi.com, reject
 host-suffix, optimus-ads.amap.com, reject
 host-suffix, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
-host, adashx.ut.amap.com, reject
+host-suffix, ut.amap.com, reject
 host, m5-x.amap.com, reject
 #⬆️
 
