@@ -161,7 +161,6 @@ host, dsp-x.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
-host, pro.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host-suffix, 300hu.com, reject
 host-suffix, jpush.cn, reject
