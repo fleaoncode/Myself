@@ -160,8 +160,6 @@ host, m5-x.amap.com, reject
 host, dsp-x.jd.com, reject
 host, mllog.jd.com, reject
 host, jpushsc.m.jd.com, reject
-host, anti-sdk-report.m.jd.com, reject
-host, anti-sdk-ccs-pre.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
 host, pro.m.jd.com, reject
