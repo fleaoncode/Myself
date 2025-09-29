@@ -159,7 +159,6 @@ host, m5-x.amap.com, reject
 #jd⬇️
 host, dsp-x.jd.com, reject
 host, mllog.jd.com, reject
-host, ccfjma.m.jd.com, reject
 host, blackhole.m.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, xlog.jd.com, reject
@@ -171,7 +170,6 @@ host, knicks.jd.com, reject
 host, dg.k.jd.com, reject
 host, pro.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
-host, ex.m.jd.com, reject
 host-suffix, 300hu.com, reject
 host-suffix, jpush.cn, reject
 #⬆️
