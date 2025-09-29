@@ -199,6 +199,7 @@ host, ads-i1.xhscdn.com, reject
 
 ################################
 
+host, fm.missevan.com, reject
 host-suffix, shuzilm.cn, reject
 host-suffix, fenqile.com, reject
 host-suffix, nos-jd.163yun.com, reject
@@ -265,8 +266,6 @@ host, ad.cyapi.cn, reject
 
 
 ###########################
-
-
 
 host-suffix, ads-twitter.com, reject
 host-suffix, cafe24ssl.com, reject
