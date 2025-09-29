@@ -159,7 +159,6 @@ host, m5-x.amap.com, reject
 #jd⬇️
 host, dsp-x.jd.com, reject
 host, mllog.jd.com, reject
-host, blackhole.m.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, xlog.jd.com, reject
 host, anti-sdk-report.m.jd.com, reject
