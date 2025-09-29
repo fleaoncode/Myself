@@ -173,7 +173,6 @@ host, pro.m.jd.com, reject
 host, perf.m.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host, ex.m.jd.com, reject
-host, api.m.jd.com, reject
 host, mapi.m.jd.com, reject
 host-suffix, 300hu.com, reject
 host-suffix, jpush.cn, reject
