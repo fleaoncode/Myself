@@ -8,4 +8,7 @@ host-suffix, godaddy.com, reject
 host-suffix, kakao.com, reject
 host-suffix, kakaocdn.net, reject
 host, connect.facebook.net, reject
+host-suffix, daumdn.com, reject
+host, ios.stable-vpn.com, reject
+host, middleman.apps.readdle.com, reject
 
