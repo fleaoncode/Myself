@@ -158,6 +158,7 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, janapi.jd.com, reject    #uc
 host, dsp-x.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
