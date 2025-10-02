@@ -113,7 +113,9 @@ host, applogios.uc.cn, reject
 host, applog-perf.uc.cn, reject
 host, pushdevice.uc.cn, reject
 host, clouddrive-activity.uc.cn, reject
+host, pdds-cdn.uc.cn, reject
 host, biz.quark.cn, reject
+host, yes-file.quark.cn, reject  #来自uc
 host-suffix, jiguang.cn, reject
 host, gaode-acs.m.taobao.com, reject
 host, metis-er.ele.me, reject
@@ -158,7 +160,7 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
-host, janapi.jd.com, reject    #uc
+host, janapi.jd.com, reject #uc浏览器的
 host, dsp-x.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
