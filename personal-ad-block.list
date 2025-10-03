@@ -162,6 +162,12 @@ host, m5-x.amap.com, reject
 #jd⬇️
 host, janapi.jd.com, reject #uc浏览器的
 host, dsp-x.jd.com, reject
+host, perf.m.jd.com, reject
+host, waapdg.jd.com, reject
+host, ccflbs.m.jd.com, reject
+host, ex.m.jd.com, reject
+host, anti-sdk-report.m.jd.com, reject
+host, anti-sdk-ccs-pre.m.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
