@@ -79,6 +79,7 @@ host, heic.alicdn.com, reject
 host, baichuan-sdk.alicdn.com, reject
 host, nbsdk-baichuan.alicdn.com, reject
 host, slsrole.alicdn.com, reject
+host, g.alicdn.com, reject    #测试淘特广告10-6
 host, loggw-ex.alipay.com, reject
 host, loggw.alipay.com, reject
 host, adgw.alipay.com, reject
