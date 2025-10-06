@@ -115,6 +115,8 @@ host, applog-perf.uc.cn, reject
 host, pushdevice.uc.cn, reject
 host, clouddrive-activity.uc.cn, reject
 host, pdds-cdn.uc.cn, reject
+host, feedback.uc.cn, reject
+host, access.open.uc.cn, reject
 host, biz.quark.cn, reject
 host, yes-file.quark.cn, reject  #来自uc
 host-suffix, jiguang.cn, reject
@@ -181,6 +183,7 @@ host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
 host, wlmonitor.m.jd.com, reject
+host, xlog.jd.com, reject   #来自uc
 host-suffix, 300hu.com, reject
 host-suffix, jpush.cn, reject
 #⬆️
