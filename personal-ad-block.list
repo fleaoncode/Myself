@@ -336,7 +336,7 @@ host-suffix, acecounter.com, reject
 host-suffix, dable.io, reject
 host-suffix, taboola.com, reject
 host-suffix, admixer.co.kr, reject
-host, api.pango-paas.co, reject
+host-suffix, pango-paas.co, reject
 host-suffix, criteo.com, reject
 host-suffix, mathtag.com, reject
 host-suffix, widerplanet.com, reject
