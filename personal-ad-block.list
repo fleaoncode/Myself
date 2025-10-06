@@ -130,7 +130,7 @@ host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao1.com, reject
-host, tnc3-alisc1.zijieapi.com, reject
+host, ads5-normal-hl.zijieapi.com, reject
 host-suffix, volces.com, reject
 host-suffix, volcimagex.net, reject
 #⬆️
