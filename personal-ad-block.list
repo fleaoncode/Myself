@@ -65,6 +65,7 @@ host, umengjmacs.m.taobao.com, reject
 host, umengacs.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
 host, tiga-release-dc.m.taobao.com, reject
+host, main.m.taobao.com, reject   #知乎中出现
 host, ossgw.alicdn.com, reject
 host, wvcfg.alicdn.com, reject
 host, mdike.alicdn.com, reject
@@ -200,8 +201,11 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 
-################################
+################################内
 
+
+host, sugar.zhihu.com, reject
+host, duga.zhihu.com, reject
 host, fm.missevan.com, reject
 host-suffix, shuzilm.cn, reject
 host-suffix, fenqile.com, reject
@@ -268,7 +272,7 @@ host-suffix, skynet.bilivideo.com, reject
 host, ad.cyapi.cn, reject
 
 
-###########################
+###########################外
 
 host-suffix, ads-twitter.com, reject
 host-suffix, cafe24ssl.com, reject
