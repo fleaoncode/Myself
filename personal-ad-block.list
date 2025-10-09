@@ -171,7 +171,8 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
-host, janapi.jd.com, reject #uc浏览器的
+host, tg-img.jd.com, reject   #来自知乎
+host, janapi.jd.com, reject   #uc浏览器的
 host, dsp-x.jd.com, reject
 host, perf.m.jd.com, reject
 host, waapdg.jd.com, reject
@@ -204,6 +205,8 @@ host, ads-i1.xhscdn.com, reject
 ################################内
 
 
+host, pv.sohu.com, reject   #来自知乎
+host, mqtt.zhihu.com, reject
 host, sugar.zhihu.com, reject
 host, duga.zhihu.com, reject
 host, fm.missevan.com, reject
