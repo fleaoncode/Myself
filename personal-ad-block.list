@@ -92,6 +92,7 @@ host-suffix, aliapp.org, reject
 host-suffix, alibabachengdun.com, reject
 host-suffix, alilang-intranet.alibaba-inc.com, reject
 host, dinamicx.alibabausercontent.com, reject
+host, a1.alibabausercontent.com, reject   #来自知乎
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
 host, beacon-api.aliyuncs.com, reject
@@ -206,6 +207,7 @@ host, ads-i1.xhscdn.com, reject
 
 
 host, pv.sohu.com, reject   #来自知乎
+host, mqtt-internal-public.zhihu.com, reject
 host, mqtt.zhihu.com, reject
 host, sugar.zhihu.com, reject
 host, duga.zhihu.com, reject
