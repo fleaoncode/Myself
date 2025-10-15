@@ -46,6 +46,7 @@ host, g.us.sinaimg.cn, reject
 
 
 #ali⬇️
+host-suffix, alibabausercontent.com, reject
 host, dinamicx.alibabausercontent.com, reject
 host, iyes.youku.com, reject
 host, mtop-dict.m.taobao.com, reject
@@ -170,6 +171,8 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, dgstatic.jd.com, reject
+host, dg.k.jd.com, reject
 host, tg-img.jd.com, reject   #来自知乎
 host, janapi.jd.com, reject   #uc浏览器的
 host, dsp-x.jd.com, reject
@@ -244,6 +247,10 @@ host-suffix, union-httpdns.gslb.yy.com, reject
 host, mobads-pre-config.cdn.bcebos.com, reject
 host-suffix, mobads.baidu.com, reject
 host-suffix, pos.baidu.com, reject
+host-suffix, tuisong.baidu.com, reject
+host-suffix, xdplt.com, reject  #百度贴吧
+host-suffix, bigda.com, reject  #百度贴吧
+host, bdbus-turbonet.baidu.com, reject
 host, dsp-impr.youdao.com, reject
 host, dsp-impr2.youdao.com, reject
 host-suffix, cdn.yy.com, reject
