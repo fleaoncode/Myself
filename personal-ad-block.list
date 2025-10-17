@@ -171,6 +171,7 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, mllog.jd.com, reject
 host, dgstatic.jd.com, reject
 host, dg.k.jd.com, reject
 host, tg-img.jd.com, reject   #来自知乎
