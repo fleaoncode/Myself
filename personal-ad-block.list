@@ -46,7 +46,6 @@ host, g.us.sinaimg.cn, reject
 
 
 #ali⬇️
-host, gw.alipayobjects.com, reject
 host-suffix, alibabausercontent.com, reject
 host, dinamicx.alibabausercontent.com, reject
 host, iyes.youku.com, reject
