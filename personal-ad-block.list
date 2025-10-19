@@ -207,7 +207,8 @@ host, ads-i1.xhscdn.com, reject
 
 ################################内
 
-
+host-suffix, bridgeoos.com, reject   #网易邮箱
+host, mail-activity.nosdn.127.net, reject
 host, pv.sohu.com, reject   #来自知乎
 host, apm.zhihu.com, reject
 host, mqtt-internal-public.zhihu.com, reject
