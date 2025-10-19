@@ -72,6 +72,7 @@ host, wvcfg.alicdn.com, reject
 host, mdike.alicdn.com, reject
 host, dtmall-tel.alicdn.com, reject
 host, gjusp.alicdn.com, reject
+host, ulk.alimama.com, reject
 host, alimama.alicdn.com, reject
 host, atanx.alicdn.com, reject
 host, hudong.alicdn.com, reject
