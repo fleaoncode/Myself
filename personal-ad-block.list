@@ -9,6 +9,8 @@ host-wildcard, *.ads.*, reject
 host-wildcard, *.adx.*, reject
 
 #qq⬇️
+host, tmfmazu.m.qq.com, reject
+host, monitor.l.qq.com, reject
 host, rumt-zh.com, reject    #前端性能监控
 host, pgdt.gtimg.cn, reject
 host, rmonitor.qq.com, reject
