@@ -9,6 +9,12 @@ host-wildcard, *.ads.*, reject
 host-wildcard, *.adx.*, reject
 
 #qq⬇️
+host, rumt-zh.com, reject    #前端性能监控
+host, pgdt.gtimg.cn, reject
+host, rmonitor.qq.com, reject
+host-suffix, beacon.qq.com, reject    #用户数据隐私上传
+host-suffix, file.myqcloud.com, reject   #确定含有广告，未知是否有其他影响
+host, adsmind.gdtimg.com, reject
 host-suffix, gdt.qq.com, reject
 host-suffix, e.qq.com, reject
 host-suffix, mazu.m.qq.com, reject
