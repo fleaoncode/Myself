@@ -172,6 +172,7 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, jpushjd.m.jd.com, reject
 host, mllog.jd.com, reject
 host, dgstatic.jd.com, reject
 host, dg.k.jd.com, reject
