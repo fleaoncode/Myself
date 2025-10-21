@@ -190,6 +190,7 @@ host, dgstatic.jd.com, reject
 host, dg.k.jd.com, reject
 host, tg-img.jd.com, reject   #来自知乎
 host, janapi.jd.com, reject   #uc浏览器的
+host, img-x.jd.com, reject
 host, dsp-x.jd.com, reject
 host, perf.m.jd.com, reject
 host, waapdg.jd.com, reject
