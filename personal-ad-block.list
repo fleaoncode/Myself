@@ -123,7 +123,6 @@ host-suffix, partner.uc.cn, reject
 host, applogios.uc.cn, reject
 host, applog-perf.uc.cn, reject
 host, pushdevice.uc.cn, reject
-host, clouddrive-activity.uc.cn, reject
 host, pdds-cdn.uc.cn, reject
 host, feedback.uc.cn, reject
 host, access.open.uc.cn, reject
