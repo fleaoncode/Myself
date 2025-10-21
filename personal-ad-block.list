@@ -181,6 +181,9 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, orbit.jd.com, reject   #出现在豆瓣
+host, mapi.m.jd.com, reject   #出现在豆瓣
+host, knicks.jd.com, reject   #出现在豆瓣
 host, jpushjd.m.jd.com, reject
 host, mllog.jd.com, reject
 host, dgstatic.jd.com, reject
