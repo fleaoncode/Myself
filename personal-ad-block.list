@@ -60,7 +60,8 @@ host, iyes.youku.com, reject
 host, mtop-dict.m.taobao.com, reject
 host, aid.m.taobao.com, reject
 host, rhdc-acs.m.taobao.com, reject
-host-suffix, adashx.m.taobao.com, reject
+host, adashx.m.taobao.com, reject
+host, adashx4yt.m.taobao.com, reject
 host-suffix, baichuan-sdk.taobao.com, reject
 host, acs4baichuan.m.taobao.com, reject
 host-suffix, ut.taobao.com, reject
@@ -128,6 +129,7 @@ host, feedback.uc.cn, reject
 host, access.open.uc.cn, reject
 host, biz.quark.cn, reject
 host, yes-file.quark.cn, reject  #来自uc
+host, adtrack.quark.cn, reject 
 host-suffix, jiguang.cn, reject
 host, gaode-acs.m.taobao.com, reject
 host, metis-er.ele.me, reject
