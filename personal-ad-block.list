@@ -140,6 +140,7 @@ host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
 
 
 #bytedance⬇️
+host-suffix, pangolin-dsp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
