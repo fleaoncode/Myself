@@ -76,6 +76,7 @@ host, umengacs.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
 host, tiga-release-dc.m.taobao.com, reject
 host, main.m.taobao.com, reject   #知乎中出现
+host, gw.alicdn.com, reject   #淘特的内置开屏，未知其他影响
 host, ossgw.alicdn.com, reject
 host, wvcfg.alicdn.com, reject
 host, mdike.alicdn.com, reject
