@@ -222,6 +222,7 @@ host, ads-i1.xhscdn.com, reject
 
 ################################内
 
+host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
 host-suffix, bridgeoos.com, reject   #网易邮箱
 host, mail-activity.nosdn.127.net, reject
 host, pv.sohu.com, reject   #来自知乎
