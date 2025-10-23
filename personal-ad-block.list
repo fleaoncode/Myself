@@ -75,6 +75,7 @@ host, umengjmacs.m.taobao.com, reject
 host, umengacs.m.taobao.com, reject
 host, orange-dc.m.taobao.com, reject
 host, tiga-release-dc.m.taobao.com, reject
+host, tanx-creative.taobao.com, reject
 host, main.m.taobao.com, reject   #知乎中出现
 host, gw.alicdn.com, reject   #淘特的内置开屏，未知其他影响
 host, ossgw.alicdn.com, reject
@@ -238,6 +239,7 @@ host, mqtt-internal-public.zhihu.com, reject
 host, mqtt.zhihu.com, reject
 host, sugar.zhihu.com, reject
 host, duga.zhihu.com, reject
+ip-cidr, 182.61.194.7/32, reject   #知乎相关
 host, fm.missevan.com, reject
 host-suffix, shuzilm.cn, reject
 host-suffix, fenqile.com, reject
@@ -269,10 +271,11 @@ host-suffix, nex8.space, reject
 host-suffix, uyunad.com, reject
 host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
-host, mobads-pre-config.cdn.bcebos.com, reject
 host, lxcode.bs2cdn.yy.com, reject
 host-suffix, nexusedgeio.com, reject   #百度
 host-suffix, pkoplink.com, reject   #百度
+host, pmp-ad.cdn.bcebos.com, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
 host-suffix, mobads.baidu.com, reject
 host-suffix, pos.baidu.com, reject
 host-suffix, tuisong.baidu.com, reject
