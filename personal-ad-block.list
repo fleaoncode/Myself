@@ -231,6 +231,7 @@ host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
 host-suffix, bridgeoos.com, reject   #网易邮箱
 host, mail-activity.nosdn.127.net, reject
 host, pv.sohu.com, reject   #来自知乎
+host-suffix, gridsumdissector.com, reject   #广告商
 host, zhstatic.zhihu.com, reject   #确定包含brand_ad
 host, datahub.zhihu.com, reject
 host, m-cloud.zhihu.com, reject
