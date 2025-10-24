@@ -236,6 +236,9 @@ host-suffix, pos.baidu.com, reject
 host-suffix, tuisong.baidu.com, reject
 host-suffix, xdplt.com, reject  #百度贴吧
 host-suffix, bigda.com, reject  #百度贴吧
+host, als.baidu.com, reject
+host, miao.baidu.com, reject
+host, feed-image.baidu.com, reject
 host, nadvideo1.baidu.com, reject
 host, nadvideo2.baidu.com, reject   #广告视频，1为添加
 host, bdbus-turbonet.baidu.com, reject
