@@ -57,6 +57,12 @@ host, g.us.sinaimg.cn, reject
 host-suffix, alibabausercontent.com, reject
 host, dinamicx.alibabausercontent.com, reject
 host, iyes.youku.com, reject
+host-suffix, sealine.youku.com, reject
+host-suffix, atm.youku.com, reject
+host-suffix, ems.youku.com, reject
+host, acs.youku.com, reject
+host, adx-open-service.youku.com, reject
+host, xpis-xcdn.youku.com, reject
 host, mtop-dict.m.taobao.com, reject
 host, aid.m.taobao.com, reject
 host, rhdc-acs.m.taobao.com, reject
@@ -140,7 +146,7 @@ host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
 
 
 
-#bytedance⬇️
+#字节bytedance⬇️
 host-suffix, pangolin-dsp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, pglstatp-toutiao.com, reject
@@ -242,6 +248,7 @@ host, feed-image.baidu.com, reject
 host, nadvideo1.baidu.com, reject
 host, nadvideo2.baidu.com, reject   #广告视频，1为添加
 host, bdbus-turbonet.baidu.com, reject
+host, mobads-logs.baidu.com, reject
 #⬆️
 
 
@@ -281,12 +288,6 @@ host-suffix, umeng.com, reject
 host-suffix, getui.com, reject
 host-suffix, getui.net, reject
 host-suffix, gepush.com, reject
-host-suffix, sealine.youku.com, reject
-host-suffix, atm.youku.com, reject
-host-suffix, ems.youku.com, reject
-host, acs.youku.com, reject
-host, adx-open-service.youku.com, reject
-host, xpis-xcdn.youku.com, reject
 host, static.eudic.net, reject
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
@@ -319,10 +320,11 @@ host-suffix, partner.sm.cn, reject
 host-suffix, wwads.cn, reject
 host-suffix, ad-scope.com.cn, reject
 host-suffix, huichuan.sm.cn, reject
-host, mobads-logs.baidu.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, ad.cyapi.cn, reject
 #
+
+
 
 #######################外🇺🇳
 #⬇️
@@ -454,17 +456,6 @@ host, adsession.exacdn.com, reject
 host-suffix, c4s-rd.services, reject
 host-suffix, snaptrckr.fun, reject
 host-suffix, javhdhello.com, reject
-
-
-
-
-
-
-
-
-
-
-
 
 
 
