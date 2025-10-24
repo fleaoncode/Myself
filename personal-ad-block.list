@@ -65,6 +65,7 @@ host-suffix, ems.youku.com, reject
 host, acs.youku.com, reject
 host, adx-open-service.youku.com, reject
 host, xpis-xcdn.youku.com, reject
+host, qh-material.taobao.com, reject
 host, mtop-dict.m.taobao.com, reject
 host, aid.m.taobao.com, reject
 host, rhdc-acs.m.taobao.com, reject
