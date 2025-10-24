@@ -54,6 +54,7 @@ host, g.us.sinaimg.cn, reject
 
 
 #ali⬇️
+
 host-suffix, alibabausercontent.com, reject
 host, dinamicx.alibabausercontent.com, reject
 host, iyes.youku.com, reject
@@ -114,6 +115,7 @@ host, dinamicx.alibabausercontent.com, reject
 host, a1.alibabausercontent.com, reject   #来自知乎
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
+host, dypnsapi-dualstack.aliyuncs.com, reject
 host, beacon-api.aliyuncs.com, reject
 host, mpush-api.aliyun.com, reject
 host-suffix, log.aliyuncs.com, reject
