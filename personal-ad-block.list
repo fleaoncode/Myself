@@ -222,7 +222,7 @@ host, ads-i2.xhscdn.com, reject
 host, ads-i1.xhscdn.com, reject
 #⬆️
 
-#百度
+#百度⬇️
 host-suffix, cdn.yy.com, reject
 host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
@@ -239,13 +239,12 @@ host-suffix, bigda.com, reject  #百度贴吧
 host, nadvideo1.baidu.com, reject
 host, nadvideo2.baidu.com, reject   #广告视频，1为添加
 host, bdbus-turbonet.baidu.com, reject
+#⬆️
 
 
 
-
-
-################################内
-
+######################内🚩
+#⬇️
 host-suffix, zztfly.com, reject
 host-suffix, qiezibenpao.com, reject
 host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
@@ -320,10 +319,10 @@ host-suffix, huichuan.sm.cn, reject
 host, mobads-logs.baidu.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host, ad.cyapi.cn, reject
+#
 
-
-###########################外
-
+#######################外🇺🇳
+#⬇️
 host-suffix, ads-twitter.com, reject
 host-suffix, cafe24ssl.com, reject
 host-suffix, widerplanet.com, reject
