@@ -84,7 +84,7 @@ host, orange-dc.m.taobao.com, reject
 host, tiga-release-dc.m.taobao.com, reject
 host, tanx-creative.taobao.com, reject
 host, main.m.taobao.com, reject   #知乎中出现
-host, gw.alicdn.com, reject   #淘特的内置开屏，未知其他影响
+-host, gw.alicdn.com, reject   #淘特的内置开屏，未知其他影响
 host, ossgw.alicdn.com, reject
 host, wvcfg.alicdn.com, reject
 host, mdike.alicdn.com, reject
@@ -115,6 +115,7 @@ host, dinamicx.alibabausercontent.com, reject
 host, a1.alibabausercontent.com, reject   #来自知乎
 host-suffix, alibabachengdun.net, reject
 host, fourier.alibaba.com, reject
+host, dypnsapi.aliyuncs.com, reject
 host, beacon-api.aliyuncs.com, reject
 host, mpush-api.aliyun.com, reject
 host-suffix, log.aliyuncs.com, reject
