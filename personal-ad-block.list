@@ -222,6 +222,27 @@ host, ads-i2.xhscdn.com, reject
 host, ads-i1.xhscdn.com, reject
 #⬆️
 
+#百度
+host-suffix, cdn.yy.com, reject
+host-suffix, yyrisk-httpproxy.yy.com, reject
+host-suffix, union-httpdns.gslb.yy.com, reject
+host, lxcode.bs2cdn.yy.com, reject
+host-suffix, nexusedgeio.com, reject   #百度
+host-suffix, pkoplink.com, reject   #百度
+host, pmp-ad.cdn.bcebos.com, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
+host-suffix, mobads.baidu.com, reject
+host-suffix, pos.baidu.com, reject
+host-suffix, tuisong.baidu.com, reject
+host-suffix, xdplt.com, reject  #百度贴吧
+host-suffix, bigda.com, reject  #百度贴吧
+host, nadvideo1.baidu.com, reject
+host, nadvideo2.baidu.com, reject   #广告视频，1为添加
+host, bdbus-turbonet.baidu.com, reject
+
+
+
+
 
 ################################内
 
@@ -270,22 +291,8 @@ host-suffix, miaozhen.com, reject
 host-suffix, adui.tg.meitu.com, reject
 host-suffix, nex8.space, reject
 host-suffix, uyunad.com, reject
-host-suffix, yyrisk-httpproxy.yy.com, reject
-host-suffix, union-httpdns.gslb.yy.com, reject
-host, lxcode.bs2cdn.yy.com, reject
-host-suffix, nexusedgeio.com, reject   #百度
-host-suffix, pkoplink.com, reject   #百度
-host, pmp-ad.cdn.bcebos.com, reject
-host, mobads-pre-config.cdn.bcebos.com, reject
-host-suffix, mobads.baidu.com, reject
-host-suffix, pos.baidu.com, reject
-host-suffix, tuisong.baidu.com, reject
-host-suffix, xdplt.com, reject  #百度贴吧
-host-suffix, bigda.com, reject  #百度贴吧
-host, bdbus-turbonet.baidu.com, reject
 host, dsp-impr.youdao.com, reject
 host, dsp-impr2.youdao.com, reject
-host-suffix, cdn.yy.com, reject
 host, imgopen.xmcdn.com, reject
 host-suffix, volcengineapi.com, reject
 host-suffix, mobileservice.cn, reject
