@@ -273,7 +273,8 @@ host, mqtt.zhihu.com, reject
 host, sugar.zhihu.com, reject
 host, duga.zhihu.com, reject
 ip-cidr, 182.61.194.7/32, reject   #知乎相关
-host, fm.missevan.com, reject
+host, fm.missevan.com, reject   #猫耳
+host, app.missevan.com, reject   #猫耳
 host-suffix, shuzilm.cn, reject
 host-suffix, fenqile.com, reject
 host-suffix, nos-jd.163yun.com, reject
