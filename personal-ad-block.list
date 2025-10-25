@@ -260,6 +260,8 @@ host, mobads-logs.baidu.com, reject
 
 ######################内🚩
 #⬇️
+
+
 host-suffix, zztfly.com, reject
 host-suffix, qiezibenpao.com, reject
 host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
@@ -315,6 +317,7 @@ host-suffix, edge.biliapi.net, reject
 host-suffix, biligame.net, reject
 host-suffix, reachmax.cn, reject
 host, cda.lilisi.com, reject
+host-suffix, ndcjl.com, reject   #豆瓣广告（v66-ad.*）
 host, api.douban.com, reject
 host-suffix, cmpassport.com, reject
 host, gallery.fbcontent.cn, reject
