@@ -331,6 +331,8 @@ host-suffix, ad-scope.com.cn, reject
 host-suffix, huichuan.sm.cn, reject
 host-suffix, skynet.bilivideo.com, reject
 host, ad.cyapi.cn, reject
+host, e-goblin.hupu.com, reject
+host, goblin.hupu.com, reject
 #
 
 
