@@ -335,6 +335,8 @@ host-suffix, skynet.bilivideo.com, reject
 host, ad.cyapi.cn, reject
 host, e-goblin.hupu.com, reject
 host, goblin.hupu.com, reject
+host-suffix, advlion.com, reject
+host-suffix, vlion.cn, reject
 #
 
 
