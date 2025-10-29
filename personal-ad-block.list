@@ -259,12 +259,10 @@ host, nadvideo1.baidu.com, reject
 host, nadvideo2.baidu.com, reject   #广告视频，1为添加
 host, bdbus-turbonet.baidu.com, reject
 host, mobads-logs.baidu.com, reject
-host, afd.baidu.com, reject
+host, afd.baidu.com, reject   #业务安全风控
 host, bgg.baidu.com, reject
 host, ada.baidu.com, reject
 host, ecmb.bdimg.com, reject
-host, nsclick.baidu.com, reject
-host, mbd.baidu.com, reject
 host, pic.rmb.bdstatic.com, reject
 #⬆️
 
