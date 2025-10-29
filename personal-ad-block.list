@@ -36,7 +36,8 @@ host-suffix, kwaizt.cn, reject
 host-suffix, inkuai.com, reject
 host-suffix, kuaishouzt.com, reject
 host-suffix, e.kuaishou.cn, reject
-host-suffix, e.kuaishou.com, reject
+host-suffix, e.kuaishou.com, rejec
+host, u.kuaishou.com, reject
 host-suffix, adkwai.com, reject
 host-suffix, adbkwai.com, reject
 host-suffix, adukwai.com, reject
@@ -159,7 +160,6 @@ host-suffix, pglstatp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao1.com, reject
 
-
 host, ads1-normal-hl.zijieapi.com, reject
 host, ads2-normal-hl.zijieapi.com, reject
 host, ads3-normal-hl.zijieapi.com, reject
@@ -168,6 +168,8 @@ host, ads5-normal-hl.zijieapi.com, reject
 
 host-suffix, volces.com, reject
 host-suffix, volcimagex.net, reject
+
+host, tnc3-alisc1.zijieapi.com, reject
 #⬆️
 
 
@@ -219,6 +221,7 @@ host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, im-x.jd.com, reject
 host, wlmonitor.m.jd.com, reject
+host, kepler.jd.com, reject
 host, xlog.jd.com, reject   #来自uc
 host-suffix, jpush.cn, reject
 #⬆️
@@ -256,6 +259,13 @@ host, nadvideo1.baidu.com, reject
 host, nadvideo2.baidu.com, reject   #广告视频，1为添加
 host, bdbus-turbonet.baidu.com, reject
 host, mobads-logs.baidu.com, reject
+host, afd.baidu.com, reject
+host, bgg.baidu.com, reject
+host, ada.baidu.com, reject
+host, ecmb.bdimg.com, reject
+host, nsclick.baidu.com, reject
+host, mbd.baidu.com, reject
+host, pic.rmb.bdstatic.com, reject
 #⬆️
 
 
@@ -299,6 +309,7 @@ host-suffix, getui.com, reject
 host-suffix, getui.net, reject
 host-suffix, gepush.com, reject
 host, static.eudic.net, reject
+host-suffix, mentamob.com, reject   #广告平台
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
 host-suffix, adui.tg.meitu.com, reject
