@@ -264,6 +264,9 @@ host, bgg.baidu.com, reject
 host, ada.baidu.com, reject
 host, ecmb.bdimg.com, reject
 host, pic.rmb.bdstatic.com, reject
+host, ala-rmb-gift.bj.bcebos.com, reject   #贴吧
+host, baidu-rmb-mvideopic-1.cdn.bcebos.com, reject   #贴吧
+host, collector.dcdn.baidu.com, reject   #贴吧
 #⬆️
 
 
