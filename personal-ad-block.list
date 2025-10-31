@@ -280,6 +280,8 @@ host-suffix, qiezibenpao.com, reject
 host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
 host-suffix, bridgeoos.com, reject   #网易邮箱
 host, mail-activity.nosdn.127.net, reject
+host, clientlogsf.music.163.com, reject
+host, iadmatapk.nosdn.127.net, reject
 host, netapm.music.163.com, reject
 host, clientlogdep.music.163.com, reject
 host, open.e.189.cn, reject
