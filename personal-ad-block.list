@@ -272,9 +272,7 @@ host, collector.dcdn.baidu.com, reject   #贴吧
 
 
 ######################内🚩
-#⬇️
-
-
+#⬇️nnn
 host-suffix, zztfly.com, reject
 host-suffix, qiezibenpao.com, reject
 host-suffix, in-neo.cn, reject   #广告服务商，名字叫尼洱，未加com
@@ -287,6 +285,7 @@ host, clientlogdep.music.163.com, reject
 host, open.e.189.cn, reject
 host, iadmusicmat.music.126.net, reject
 host, pv.sohu.com, reject   #来自知乎
+host-suffix, trust-provider.cn, reject   #知乎中出现
 host-suffix, gridsumdissector.com, reject   #广告商
 host, zhstatic.zhihu.com, reject   #确定包含brand_ad
 host, datahub.zhihu.com, reject
