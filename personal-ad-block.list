@@ -245,6 +245,7 @@ host-suffix, union-httpdns.gslb.yy.com, reject
 host, lxcode.bs2cdn.yy.com, reject
 host-suffix, nexusedgeio.com, reject   #百度
 host-suffix, pkoplink.com, reject   #百度
+host, imgsys-bj.cdn.bcebos.com, reject
 host, pmp-ad.cdn.bcebos.com, reject
 host, mobads-pre-config.cdn.bcebos.com, reject
 host-suffix, mobads.baidu.com, reject
