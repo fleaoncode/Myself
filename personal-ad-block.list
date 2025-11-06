@@ -287,6 +287,8 @@ host, clientlogdep.music.163.com, reject
 host, open.e.189.cn, reject
 host, iadmusicmat.music.126.net, reject
 host, pv.sohu.com, reject   #来自知乎
+host, zhihu-web-analytics.zhihu.com, reject
+host, httpdns.zhihu.com, reject
 host-suffix, trust-provider.cn, reject   #知乎中出现
 host-suffix, gridsumdissector.com, reject   #广告商
 host, zhstatic.zhihu.com, reject   #确定包含brand_ad
