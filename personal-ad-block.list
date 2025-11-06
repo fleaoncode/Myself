@@ -212,6 +212,8 @@ host, tg-img.jd.com, reject   #来自知乎
 host, janapi.jd.com, reject   #uc浏览器的
 host, img-x.jd.com, reject
 host, dsp-x.jd.com, reject
+host, mim-x.jd.com, reject
+host, im-x.jd.com, reject
 host, perf.m.jd.com, reject
 host, waapdg.jd.com, reject
 host, ex.m.jd.com, reject
@@ -219,7 +221,6 @@ host, anti-sdk-report.m.jd.com, reject
 host, anti-sdk-ccs-pre.m.jd.com, reject
 host, jpushsc.m.jd.com, reject
 host, ccc-x.jd.com, reject
-host, im-x.jd.com, reject
 host, wlmonitor.m.jd.com, reject
 host, kepler.jd.com, reject
 host, xlog.jd.com, reject   #来自uc
