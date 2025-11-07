@@ -287,6 +287,7 @@ host, clientlogdep.music.163.com, reject
 host, open.e.189.cn, reject
 host, iadmusicmat.music.126.net, reject
 host, pv.sohu.com, reject   #来自知乎
+host, httpdns.zhihu.com, reject
 host, crash2.zhihu.com, reject
 host, zhihu-web-analytics.zhihu.com, reject
 host, httpdns.zhihu.com, reject
@@ -359,6 +360,7 @@ host, e-goblin.hupu.com, reject
 host, goblin.hupu.com, reject
 host-suffix, advlion.com, reject
 host-suffix, vlion.cn, reject
+host, sales-expedite-ga.midea.com, reject
 #
 
 
