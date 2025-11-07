@@ -52,6 +52,7 @@ host-suffix, im.weibo.cn, reject
 host, adpinpai.video.weibocdn.com, reject
 host, g.us.sinaimg.cn, reject
 host, img.t.sinajs.cn, reject
+host, ad.us.sinaimg.cn, reject
 #⬆️
 
 
