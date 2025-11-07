@@ -225,6 +225,7 @@ host, wlmonitor.m.jd.com, reject
 host, kepler.jd.com, reject
 host, xlog.jd.com, reject   #来自uc
 host-suffix, jpush.cn, reject
+host, img2.360buyimg.com, reject
 #⬆️
 
 
