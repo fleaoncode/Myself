@@ -26,6 +26,10 @@ host, nvs.im.tencent.cn, reject
 host-suffix, ugdtimg.com, reject
 host, cc.map.qq.com, reject
 host, lbs.map.qq.com, reject
+host, btrace.qq.com, reject
+host, api.prize.qq.com, reject
+host, oth.eve.mdt.qq.com, reject
+host, ugchsy.gtimg.com, reject
 #⬆️
 
 
