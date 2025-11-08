@@ -28,8 +28,11 @@ host, cc.map.qq.com, reject
 host, lbs.map.qq.com, reject
 host, btrace.qq.com, reject
 host, api.prize.qq.com, reject
-host, oth.eve.mdt.qq.com, reject
-host, ugchsy.gtimg.com, reject
+host, oth.eve.mdt.qq.com, reject    #第三方有关
+host, ugchsy.gtimg.com, reject   #广告
+host, ugchwy.gtimg.com, reject   #广告
+host-suffix, ssp.qq.com, reject   #可能和app打开监控有关
+host, wa.gtimg.com, reject   #广告
 #⬆️
 
 
