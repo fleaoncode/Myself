@@ -282,7 +282,6 @@ host, collector.dcdn.baidu.com, reject   #贴吧
 
 
 #知乎⬇️
-host, a2i.zhihu.com, reject    #含ad
 host, pv.sohu.com, reject   #来自知乎
 host, httpdns.zhihu.com, reject
 host, crash2.zhihu.com, reject
