@@ -206,6 +206,7 @@ host, m5-x.amap.com, reject
 
 
 #jd⬇️
+host, storage.jd.com, reject
 host, vod.300hu.com, reject
 host, homepage-gw.jd.com, reject
 host, second-floor-pro.pf.jd.com, reject
@@ -282,6 +283,7 @@ host, collector.dcdn.baidu.com, reject   #贴吧
 
 
 #知乎⬇️
+host, appcloud.zhihu.com, reject
 host, pv.sohu.com, reject   #来自知乎
 host, httpdns.zhihu.com, reject
 host, crash2.zhihu.com, reject
