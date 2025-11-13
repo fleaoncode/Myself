@@ -1,4 +1,4 @@
-^https:\/\/img2\.360buyimg\.com\/tgx\/jfs\/ url reject-200   #jdtanx?
+^https:\/\/img2\.360buyimg\.com\/tgx\/jfs\/ url reject-200   #jdtanx
 ^https:\/\/api\.zhihu\.com\/ad-style-service\/ url reject-200   #知乎
 ^https:\/\/api\.zhihu\.com\/commercial_api\/ url reject-200   #知乎
 ^https:\/\/images\.pinduoduo\.com\/marketing_api\/ url reject-200   #出现在知乎
