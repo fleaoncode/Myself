@@ -135,6 +135,7 @@ host-suffix, log.aliyuncs.com, reject
 host-suffix, log-global.aliyuncs.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, cloud-config-service.rtc.aliyuncs.com, reject   #末尾getAioLoggerConfig
+host, vpp-license-proxy.aliyuncs.com, reject   #接上一个
 host-suffix, ut.cainiao.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
 host, g-acs.m.goofish.com, reject
