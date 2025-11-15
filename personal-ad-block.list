@@ -139,6 +139,7 @@ host, vpp-license-proxy.aliyuncs.com, reject   #接上一个
 host-suffix, ut.cainiao.com, reject
 host, nbnestcreativecdn.cainiao.com, reject
 host, g-acs.m.goofish.com, reject
+host, h5.m.goofish.com, reject   #floatball似乎是漂浮的那个广告
 host-suffix, aligames.com, reject
 host-suffix, px.ucweb.com, reject
 host, track.uc.cn, reject
@@ -204,6 +205,7 @@ host-suffix, dualstack-logs.amap.com, reject
 host-suffix, ut.amap.com, reject
 host, m5-x.amap.com, reject
 host, dualstack-restios.amap.com, reject   #出现在闲鱼
+host, restios.amap.com, reject   #出现在闲鱼
 #⬆️
 
 
