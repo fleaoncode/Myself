@@ -2,4 +2,6 @@
 ^https:\/\/api\.zhihu\.com\/ad-style-service\/ url reject-200   
 ^https:\/\/api\.zhihu\.com\/commercial_api\/ url reject-200   
 ^https:\/\/images\.pinduoduo\.com\/marketing_api\/ url reject-200   
-
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.app\.launch\.report\/ url reject-200
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.scene\.restore\/ url reject-200
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlecommerce\.splash\.ads\/ url reject-200
