@@ -97,6 +97,7 @@ host, orange-dc.m.taobao.com, reject
 host, tiga-release-dc.m.taobao.com, reject
 host, tanx-creative.taobao.com, reject
 host, main.m.taobao.com, reject   #知乎中出现
+host, api-mayi.django.t.taobao.com, reject
 host, dorangesource.alicdn.com, reject
 host, ossgw.alicdn.com, reject
 host, wvcfg.alicdn.com, reject
@@ -119,6 +120,8 @@ host, adgw.alipay.com, reject
 host, amdc-sibling.alipay.com, reject
 host, amdc-sibling.alipay.com.cn, reject
 host, amdc.alipay.com, reject
+host, datagw-edge.alipay.com, reject
+host, pull.alive.alipay.com.cn, reject
 host-suffix, mmstat.com, reject
 host-suffix, abtest.alibaba.com, reject
 host-suffix, aliapp.org, reject
@@ -315,6 +318,8 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host-suffix, queachycorer.com, reject
+host-suffix, 6888.site, reject
 host-suffix, ctrmi.cn, reject   #央视市场研究m.出现在知乎
 host-suffix, zztfly.com, reject
 host-suffix, qiezibenpao.com, reject
