@@ -5,3 +5,6 @@
 ^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.app\.launch\.report\/ url reject-200
 ^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.scene\.restore\/ url reject-200
 ^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlecommerce\.splash\.ads\/ url reject-200
+^https:\/\/api\.zhihu\.com\/mqtt\/ url reject-200
+^https:\/\/api\.zhihu\.com\/topstory\/ url reject-200
+^https:\/\/api\.zhihu\.com\/message-push\/ url reject-200
