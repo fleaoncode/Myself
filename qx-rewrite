@@ -8,3 +8,4 @@
 ^https:\/\/api\.zhihu\.com\/mqtt\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/topstory\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/message-push\/ url reject-200
+^https:\/\/tiebac\.baidu\.com\/tiebaads\/ url reject
