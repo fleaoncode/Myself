@@ -1,11 +1,18 @@
 
 ^https:\/\/api\.zhihu\.com\/ad-style-service\/ url reject-200   
 ^https:\/\/api\.zhihu\.com\/commercial_api\/ url reject-200   
-^https:\/\/images\.pinduoduo\.com\/marketing_api\/ url reject-200   
-^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.app\.launch\.report\/ url reject-200
-^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.scene\.restore\/ url reject-200
-^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlecommerce\.splash\.ads\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/mqtt\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/topstory\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/message-push\/ url reject-200
+
+^https:\/\/images\.pinduoduo\.com\/marketing_api\/ url reject-200   
+
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.app\.launch\.report\/ url reject-200
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.idle\.idleadv\.scene\.restore\/ url reject-200
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlecommerce\.splash\.ads\/ url reject-200
+
+
 ^https:\/\/tiebac\.baidu\.com\/tiebaads\/ url reject
+http://tiebac.baidu.com/c/s/adLog url reject
+^https:\/\/tiebac\.baidu\.com\/c\/f\/ad\/ url reject
+^https:\/\/tiebac\.baidu\.com\/c\/b\/ad\/ url reject
