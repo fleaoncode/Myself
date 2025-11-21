@@ -334,6 +334,7 @@ host, netapm.music.163.com, reject
 host, clientlogdep.music.163.com, reject
 host, open.e.189.cn, reject
 host, iadmusicmat.music.126.net, reject
+host, iadmusicmatvideo.music.126.net, reject
 host-suffix, nos-jd.163yun.com, reject
 host, fm.missevan.com, reject   #猫耳
 host, app.missevan.com, reject   #猫耳
