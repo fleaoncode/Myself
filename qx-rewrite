@@ -3,6 +3,7 @@
 ^https:\/\/api\.zhihu\.com\/commercial_api\/ url reject-200   
 ^https:\/\/api\.zhihu\.com\/mqtt\/ url reject-200
 ^https:\/\/api\.zhihu\.com\/message-push\/ url reject-200
+^https:\/\/api\.zhihu\.com\/topstory\/ url reject-200
 
 ^https:\/\/images\.pinduoduo\.com\/marketing_api\/ url reject-200   
 
