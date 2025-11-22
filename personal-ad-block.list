@@ -355,6 +355,7 @@ host-suffix, getui.net, reject
 host-suffix, gepush.com, reject
 host, static.eudic.net, reject
 host-suffix, mentamob.com, reject   #广告平台
+host-suffix, ipinyou.com, reject   #品友平台，出现在知乎
 host-suffix, sdk.open.talk.igexin.com, reject
 host-suffix, miaozhen.com, reject
 host-suffix, adui.tg.meitu.com, reject
