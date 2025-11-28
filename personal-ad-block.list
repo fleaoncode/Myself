@@ -158,7 +158,9 @@ host, feedback.uc.cn, reject
 host, access.open.uc.cn, reject
 host, biz.quark.cn, reject
 host, yes-file.quark.cn, reject  #来自uc
+host, image.uczzd.cn, reject   #不明出现在知乎
 host, adtrack.quark.cn, reject 
+host, unet.quark.cn, reject   #不明出现在知乎
 host-suffix, jiguang.cn, reject
 host, gaode-acs.m.taobao.com, reject
 host, metis-er.ele.me, reject
@@ -312,6 +314,7 @@ host, mqtt-internal-public.zhihu.com, reject
 host, mqtt.zhihu.com, reject
 host, sugar.zhihu.com, reject
 host, duga.zhihu.com, reject
+host, page-modular.zhihu.com, reject
 ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 
