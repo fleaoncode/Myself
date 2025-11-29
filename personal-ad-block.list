@@ -219,7 +219,7 @@ host, dualstack-arestapi.amap.com, reject   #闲鱼
 
 #jd⬇️
 host, storage.jd.com, reject
-host, storage.360buyimg.com, reject
+-host, storage.360buyimg.com, reject   #导致进不了通用设置
 host, homepage-gw.jd.com, reject
 host, second-floor-pro.pf.jd.com, reject
 host, orbit.jd.com, reject   #出现在豆瓣
