@@ -405,6 +405,8 @@ host, sales-expedite-ga.midea.com, reject
 
 #######################外🇺🇳
 #⬇️ooo
+host-suffix, ahmybid.net, reject
+host-suffix, adbestnet.com, reject
 host-suffix, ads-twitter.com, reject
 host-suffix, cafe24ssl.com, reject
 host-suffix, widerplanet.com, reject
