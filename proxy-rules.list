@@ -30,6 +30,8 @@ host-suffix, crashlytics.com, proxy
 host-suffix, www.recaptcha.net, proxy
 host-suffix, max-c.com, proxy
 host-suffix, deepseek.com, proxy
+host-suffix, deepseeksvc.com, proxy
+host-suffix, intercom.com, proxy   #似乎和deepseek有关
 host-suffix, cdn-apple.com, proxy
 host-suffix, mzstatic.com, proxy
 host-suffix, icloud.com, proxy
