@@ -8,7 +8,8 @@ host-suffix, twimg.com, proxy
 host-suffix, tiktokcdn-us.com, proxy
 
 
-host-suffix, ocsp.pki.goog, proxy
+
+host-suffix, pki.goog, proxy
 host-suffix, steampowered.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, googleapis.com, proxy
