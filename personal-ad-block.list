@@ -408,6 +408,10 @@ host, sales-expedite-ga.midea.com, reject
 
 #######################外🇺🇳
 #⬇️ooo
+host-suffix, orbsrv.com, reject
+host-suffix, chnsrv.com, reject
+host-suffix, vstserv.com, reject
+host-suffix, 3dfulicai.com, reject
 host-suffix, ahmybid.net, reject
 host-suffix, adbestnet.com, reject
 host-suffix, ads-twitter.com, reject
