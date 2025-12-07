@@ -325,6 +325,9 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host-suffix, yourongsj.com, reject   #ads-track
+host-suffix, fancyapi.com, reject
+host-suffix, funmob.cn, reject
 host-suffix, queachycorer.com, reject
 host-suffix, 6888.site, reject
 host-suffix, ctrmi.cn, reject   #央视市场研究m.出现在知乎
