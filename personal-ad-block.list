@@ -123,6 +123,7 @@ host, amdc-sibling.alipay.com.cn, reject
 host, amdc.alipay.com, reject
 host, datagw-edge.alipay.com, reject
 host, pull.alive.alipay.com.cn, reject
+host, ugapi.alipay.com, reject   #出现在知乎
 host-suffix, mmstat.com, reject
 host-suffix, abtest.alibaba.com, reject
 host-suffix, aliapp.org, reject
@@ -405,12 +406,15 @@ host, goblin.hupu.com, reject
 host-suffix, advlion.com, reject
 host-suffix, vlion.cn, reject
 host, sales-expedite-ga.midea.com, reject
+host-suffix, voiceads.cn, reject
+
 #
 
 
 
 #######################外🇺🇳
 #⬇️ooo
+host, earringsatisfiedsplice.com, reject
 host-suffix, orbsrv.com, reject
 host-suffix, chnsrv.com, reject
 host-suffix, vstserv.com, reject
