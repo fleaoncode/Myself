@@ -44,10 +44,10 @@ host-suffix, apple.com, proxy
 host, cdn.apple-mapkit.com, proxy
 host, iosapps.itunes.apple.com, direct
 
--host-suffix, cdnetworks.net, proxy   #ip测试中遇到
-host-suffix, aapq.net, proxy   #ip测试中遇到，ipipnet下面如果封了就没有
-host-suffix, ipip.net, reject   #ip测试中遇到，国内公司我不想它连接
-host-suffix, itdog.cn, proxy   #ip测试中遇到，我不想它走内
+-host-suffix, cdnetworks.net, proxy   
+host-suffix, aapq.net, proxy   
+host-suffix, ipip.net, reject   
+host-suffix, itdog.cn, proxy  
 
 
 
