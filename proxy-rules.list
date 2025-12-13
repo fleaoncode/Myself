@@ -1,7 +1,9 @@
 host-suffix, bilibili.com, direct
 host-suffix, biliapi.com, direct
 host-suffix, bilivideo.com, direct
+
 host-suffix, huami-firmware-cdn.huami.com, reject
+
 host-suffix, facebook.com, proxy
 host-suffix, reddit.com, proxy
 host-suffix, twimg.com, proxy
@@ -32,6 +34,8 @@ host-suffix, www.recaptcha.net, proxy
 host-suffix, max-c.com, proxy
 host-suffix, deepseek.com, proxy
 host-suffix, deepseeksvc.com, proxy
+
+
 host-suffix, cdn-apple.com, proxy
 host-suffix, mzstatic.com, proxy
 host-suffix, icloud.com, proxy
@@ -40,6 +44,10 @@ host-suffix, apple.com, proxy
 host, cdn.apple-mapkit.com, proxy
 host, iosapps.itunes.apple.com, direct
 
+-host-suffix, cdnetworks.net, proxy   #ip测试中遇到
+host-suffix, aapq.net, proxy   #ip测试中遇到，ipipnet下面如果封了就没有
+host-suffix, ipip.net, reject   #ip测试中遇到，国内公司我不想它连接
+host-suffix, itdog.cn, proxy   #ip测试中遇到，我不想它走内
 
 
 
