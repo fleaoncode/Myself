@@ -40,6 +40,7 @@ host-suffix, cdn-apple.com, proxy
 host-suffix, mzstatic.com, proxy
 host-suffix, icloud.com, proxy
 host, gs-loc.apple.com, direct
+host, gs-loc-cn.apple.com, direct
 host-suffix, apple.com, proxy
 host, cdn.apple-mapkit.com, proxy
 host, iosapps.itunes.apple.com, direct
