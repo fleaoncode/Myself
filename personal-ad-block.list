@@ -251,6 +251,11 @@ host-suffix, jpush.cn, reject
 host, img2.360buyimg.com, reject
 host, api.m.jd.com, reject
 host, ccfjma.m.jd.com, reject
+host, squnit-api.m.jd.com, reject
+host, blackhole.m.jd.com, reject
+host, ccflbs.m.jd.com, reject
+host, lbsapi.m.jd.com, reject
+host, item.m.jd.com, reject
 #⬆️
 
 
