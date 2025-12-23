@@ -115,6 +115,7 @@ host, heic.alicdn.com, reject
 host, baichuan-sdk.alicdn.com, reject
 host, nbsdk-baichuan.alicdn.com, reject
 host, slsrole.alicdn.com, reject
+host, dns.alidns.com, reject
 host, loggw-ex.alipay.com, reject
 host, loggw.alipay.com, reject
 host, adgw.alipay.com, reject
@@ -189,6 +190,7 @@ host-suffix, volces.com, reject
 host-suffix, volcimagex.net, reject
 
 host, tnc3-alisc1.zijieapi.com, reject
+host, tnc3-aliec2.zijieapi.com, reject
 #⬆️
 
 
@@ -329,6 +331,8 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host, bj.openstorage.cn, reject
+host, ssp.iytcdn.com, reject
 host-suffix, yourongsj.com, reject   #ads-track
 host-suffix, fancyapi.com, reject
 host-suffix, funmob.cn, reject
