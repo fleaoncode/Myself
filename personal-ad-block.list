@@ -57,7 +57,7 @@ host-suffix, uve.weibo.com, reject
 host-suffix, biz.weibo.com, reject
 host-suffix, im.weibo.cn, reject
 host, adpinpai.video.weibocdn.com, reject
-host, g.us.sinaimg.cn, reject
+-host, g.us.sinaimg.cn, reject   #会让动图在预览页面不动
 host, img.t.sinajs.cn, reject
 host, face.t.sinajs.cn, reject
 host, ad.us.sinaimg.cn, reject
