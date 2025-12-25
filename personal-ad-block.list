@@ -251,7 +251,7 @@ host, kepler.jd.com, reject
 host, xlog.jd.com, reject   #来自uc
 host-suffix, jpush.cn, reject
 host, img2.360buyimg.com, reject
-host, api.m.jd.com, reject
+-host, api.m.jd.com, reject   #导致分类打不开
 host, ccfjma.m.jd.com, reject
 host, squnit-api.m.jd.com, reject
 host, blackhole.m.jd.com, reject
