@@ -258,6 +258,11 @@ host, blackhole.m.jd.com, reject
 host, ccflbs.m.jd.com, reject
 host, lbsapi.m.jd.com, reject
 host, item.m.jd.com, reject
+host, sh.jd.com, reject
+host, dsap.jd.com, reject
+host, heracles.jd.com, reject
+host, mars.jd.com, reject
+host, sdkfp.jd.com, reject
 #⬆️
 
 
