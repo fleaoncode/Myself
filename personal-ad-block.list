@@ -331,6 +331,10 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host-suffix, 66mobi.com, reject
+host-suffix, dhsz.cn, reject
+host-suffix, laiyagushi.com, reject
+host-suffix, dbankcdn.cn, reject
 host, bj.openstorage.cn, reject
 host, ssp.iytcdn.com, reject
 host-suffix, yourongsj.com, reject   #ads-track
