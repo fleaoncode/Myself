@@ -336,6 +336,7 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host-suffix, domob.cn, reject
 host-suffix, 66mobi.com, reject
 host-suffix, dhsz.cn, reject
 host-suffix, laiyagushi.com, reject
