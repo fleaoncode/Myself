@@ -13,6 +13,7 @@ host-suffix, tiktokcdn-us.com, proxy
 
 host-suffix, pki.goog, proxy
 host-suffix, steampowered.com, proxy
+host-suffix, steamcommunity.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, googleapis.com, proxy
 host-suffix, googletagmanager.com, proxy
