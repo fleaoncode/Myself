@@ -66,8 +66,6 @@ host, ad.us.sinaimg.cn, reject
 
 #ali⬇️
 
-host-suffix, alibabausercontent.com, reject
-host, dinamicx.alibabausercontent.com, reject
 host, iyes.youku.com, reject
 host-suffix, sealine.youku.com, reject
 host-suffix, atm.youku.com, reject
