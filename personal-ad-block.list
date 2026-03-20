@@ -540,6 +540,7 @@ host-suffix, toponadss.com, reject
 host-suffix, toponad.com, reject
 host, ads-api.twitter.com, reject
 host-suffix, adtrafficquality.google, reject
+host, fundingchoicesmessages.google.com, reject
 host, adsrv.kurogames.com, reject
 host-suffix, lnk0.com, reject
 host-suffix, adjust.net.in, reject
