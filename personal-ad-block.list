@@ -190,6 +190,7 @@ host, tnc3-aliec2.zijieapi.com, reject
 
 
 #mi⬇️
+host, trade-api.retail.mi.com, reject
 host-suffix, trade.m.xiaomiyoupin.com, reject
 host-suffix, pandora.xiaomi.com, reject
 host-suffix, chat.xiaomi.net, reject
