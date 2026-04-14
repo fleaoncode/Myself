@@ -29,6 +29,7 @@ host-suffix, googleoptimize.com, proxy
 host-suffix, ytimg.com, proxy
 host, app-analytics-services.com, proxy
 host-suffix, crashlytics.com, proxy
+host, app-measurement.com, proxy
 
 
 host-suffix, www.recaptcha.net, proxy
