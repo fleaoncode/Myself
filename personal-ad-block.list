@@ -427,6 +427,8 @@ host-suffix, voiceads.cn, reject
 
 #######################外🇺🇳
 #⬇️ooo
+host-suffix, rallytrck.website, reject
+host-suffix, bluetrafficstream.com, reject
 host, earringsatisfiedsplice.com, reject
 host-suffix, orbsrv.com, reject
 host-suffix, chnsrv.com, reject
