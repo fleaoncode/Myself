@@ -274,6 +274,8 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 #百度⬇️
+host, novelapi.baidu.com, reject
+host, adsmis.duxiaoman.com, reject
 host-suffix, cdn.yy.com, reject
 host-suffix, yyrisk-httpproxy.yy.com, reject
 host-suffix, union-httpdns.gslb.yy.com, reject
