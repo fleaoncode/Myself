@@ -274,6 +274,9 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 #百度⬇️
+host-suffix, antpcdn.com, reject
+host-suffix, zhangyuyidong.cn, reject
+host-suffix, adintl.cn, reject
 host, novelapi.baidu.com, reject
 host, adsmis.duxiaoman.com, reject
 host-suffix, cdn.yy.com, reject
