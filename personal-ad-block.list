@@ -274,6 +274,7 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 #百度⬇️
+host, query.dcdn.baidu.com, reject
 host-suffix, cdn.bcebos.com, reject 
 host-suffix, antpcdn.com, reject
 host-suffix, zhangyuyidong.cn, reject
