@@ -274,6 +274,7 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 #百度⬇️
+host, pop.pcsnetwork.netdisk.baidu.com, reject
 host, bz-ipdx.baidu.com, reject
 host, query.dcdn.baidu.com, reject
 host-suffix, cdn.bcebos.com, reject 
