@@ -2,6 +2,7 @@ host-suffix, bilibili.com, direct
 host-suffix, biliapi.com, direct
 host-suffix, bilivideo.com, direct
 host, safe.cdn.bcebos.com, direct
+host, bkimg.cdn.bcebos.com, direct
 
 host-suffix, huami-firmware-cdn.huami.com, reject
 
