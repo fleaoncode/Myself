@@ -277,7 +277,7 @@ host, ads-i1.xhscdn.com, reject
 host, pop.pcsnetwork.netdisk.baidu.com, reject
 host, bz-ipdx.baidu.com, reject
 host, query.dcdn.baidu.com, reject
-host-suffix, cdn.bcebos.com, reject 
+-host-suffix, cdn.bcebos.com, reject 
 host-suffix, antpcdn.com, reject
 host-suffix, zhangyuyidong.cn, reject
 host-suffix, adintl.cn, reject
