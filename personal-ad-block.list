@@ -153,6 +153,7 @@ host, pushdevice.uc.cn, reject
 host, pdds-cdn.uc.cn, reject
 host, feedback.uc.cn, reject
 host, access.open.uc.cn, reject
+host, umessage-online-zb.uc.cn, reject
 host, biz.quark.cn, reject
 host, yes-file.quark.cn, reject  #来自uc
 host, image.uczzd.cn, reject   #不明出现在知乎
@@ -341,6 +342,9 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host, bridgeads.massx.com, reject
+host-suffix, adwangmai.com, reject
+host-suffix, yunxish.com, reject
 host-suffix, domob.cn, reject
 host-suffix, 66mobi.com, reject
 host-suffix, dhsz.cn, reject
