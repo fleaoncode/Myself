@@ -379,6 +379,7 @@ host-suffix, shuzilm.cn, reject
 host-suffix, fenqile.com, reject
 host-suffix, beizi.biz, reject
 host-suffix, adbiding.com, reject
+host-suffix, adbiding.cn, reject
 host-suffix, hubcloud.com.cn, reject
 host-suffix, effirst.com, reject
 host-suffix, tanx.com, reject
