@@ -275,6 +275,8 @@ host, ads-i1.xhscdn.com, reject
 #⬆️
 
 #百度⬇️
+host, gamedelivery.cdn.bcebos.com, reject
+host, tieba-ares.cdn.bcebos.com, reject
 host, pop.pcsnetwork.netdisk.baidu.com, reject
 host, bz-ipdx.baidu.com, reject
 host, query.dcdn.baidu.com, reject
