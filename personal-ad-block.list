@@ -24,8 +24,8 @@ host-suffix, bugly.qq.com, reject
 host-suffix, trace.qq.com, reject
 host, nvs.im.tencent.cn, reject
 host-suffix, ugdtimg.com, reject
-host, cc.map.qq.com, reject
-host, lbs.map.qq.com, reject
+-host, cc.map.qq.com, reject
+-host, lbs.map.qq.com, reject
 host, btrace.qq.com, reject
 host, api.prize.qq.com, reject
 host, oth.eve.mdt.qq.com, reject    #第三方有关
