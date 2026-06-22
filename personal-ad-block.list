@@ -443,6 +443,10 @@ host-suffix, voiceads.cn, reject
 
 #######################外🇺🇳
 #⬇️ooo
+host-suffix, gentlefieldpattern.com, reject
+host, girls-games.org, reject
+host-suffix, rtmark.net, reject
+host-suffix, exoclick.com, reject
 host-suffix, rallytrck.website, reject
 host-suffix, bluetrafficstream.com, reject
 host, earringsatisfiedsplice.com, reject
