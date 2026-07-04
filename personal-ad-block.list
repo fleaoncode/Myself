@@ -164,6 +164,7 @@ host, gaode-acs.m.taobao.com, reject
 host, metis-er.ele.me, reject
 #带地址类
 host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
+host, wantu-xm4-xianyu-video-hz.oss-cn-hangzhou.aliyuncs.com, reject
 #⬆️
 
 
