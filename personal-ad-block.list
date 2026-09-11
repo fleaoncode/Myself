@@ -219,6 +219,7 @@ host, dualstack-arestapi.amap.com, reject   #闲鱼
 
 
 #jd⬇️
+host, nakedeye.360buyimg.com, reject
 host, apk.360buyimg.com, reject
 -host, storage.jd.com, reject   #京东购物车
 -host, storage.360buyimg.com, reject   #导致进不了通用设置
@@ -345,6 +346,8 @@ ip-cidr, 182.61.194.7/32, reject   #知乎相关
 
 ######################内🚩
 #⬇️iii
+host, hi2345.icu, reject
+host-suffix, jzzfih.cn, reject
 host, bridgeads.massx.com, reject
 host-suffix, adwangmai.com, reject
 host-suffix, yunxish.com, reject
@@ -444,6 +447,10 @@ host-suffix, voiceads.cn, reject
 
 #######################外🇺🇳
 #⬇️ooo
+host-suffix, mejewusodovuca.com, reject
+host-suffix, zugasezuryjoxo.com, reject
+host-suffix, byracucosopenu.com, reject
+host-suffix, mayzaent.com, reject
 host-suffix, gentlefieldpattern.com, reject
 host, girls-games.org, reject
 host-suffix, rtmark.net, reject
