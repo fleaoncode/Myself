@@ -162,6 +162,7 @@ host, unet.quark.cn, reject   #不明出现在知乎
 host-suffix, jiguang.cn, reject
 host, gaode-acs.m.taobao.com, reject
 host, metis-er.ele.me, reject
+host, render-prod-tile.amap.com, reject
 #带地址类
 host, gnss-eph.oss-cn-hangzhou.aliyuncs.com, reject
 host, wantu-xm4-xianyu-video-hz.oss-cn-hangzhou.aliyuncs.com, reject
